@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import com.google.common.collect.Multimap;
 
 public class Wikis {
-	ArrayList<Instance> list;
+	ArrayList<Instance> instances;
 	
 	final int id = 0;
 	final int name =1;
@@ -17,38 +17,41 @@ public class Wikis {
 	final int label = 7;
 	
 	public Wikis(ArrayList<Instance> instances){
-		this.list = instances;
+		this.instances = instances;
 	}
 	
 	public void cleanfeatures(){
-		for(Instance ins: this.list){
+		for(Instance ins: this.instances){
 			ins.features.remove(7); // remove res 
 			ins.features.remove(6); // remove popMovie
 		}
 	}
 	
 	public void takeLog(){
-		Calc.logTransform(this.list, new int[] {wcpop, wpop, cov});
+		Calc.logTransform(this.instances, new int[] {wcpop, wpop, cov});
 	}
 	
 	public void NormMinMax(){
-		Calc.minMaxNorm(this.list, new int[] {wcpop,wpop,epop,cov});
+		Calc.minMaxNorm(this.instances, new int[] {wcpop,wpop,epop,cov});
 	}
 	
 	public void rank(String modelFile){
 		String model = IO.readFile(modelFile);
-		Logistic.calcScore(this.list, new int[] {wcpop,wpop,epop,cov}, model);
+		Logistic.calcScore(this.instances, new int[] {wcpop,wpop,epop,cov}, model);
 		// sorts according to the last entry of each instance, which is score of instances.
 		System.out.println("Scores are calculated!!");
-		Multimap<String,Instance> wikiGroups= Operations.groupBy(this.list,name);
-		Operations.sortByGroup(wikiGroups, this.list.get(0).features.size()-1);
-		this.list = Operations.flatten(wikiGroups);
+		Multimap<String,Instance> wikiGroups= Operations.groupBy(this.instances,name);
+		Operations.sortByGroup(wikiGroups, this.instances.get(0).features.size()-1);
+		this.instances = Operations.flatten(wikiGroups);
 
 	}
 	
 	public void genArff(String fileName){
-		Arff.gen(this.list, new int[]{wcpop,wpop,epop,cov, label}, new String[]{"wcpop", "wpop", "epop", "cov", "label"},fileName);
+		Arff.gen(this.instances, new int[]{wcpop,wpop,epop,cov, label}, new String[]{"wcpop", "wpop", "epop", "cov", "label"},fileName);
 	}
 	
+	public int numOfFeatures(){
+		return this.instances.get(0).features.size();
+	}
 	
 }
