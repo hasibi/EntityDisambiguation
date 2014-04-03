@@ -1,13 +1,18 @@
 package entity.disamb;
 
 //import static org.junit.Assert.*;
-
 import java.util.ArrayList;
 import java.util.Random;
 
 //import org.junit.Test;
 
 import com.google.common.collect.Multimap;
+
+import disRanking.Logistic;
+
+import entity.disamb.ml.*;
+import entity.disamb.process.*;
+
 
 public class RankingTest {
 
@@ -30,14 +35,14 @@ public class RankingTest {
 		//ArrayList<Instance> covs = IO.readData("./output/geo.covs.txt");
 		
 		//================== Generating the data ====================
-				ArrayList<Instance> testInss = new ArrayList<Instance>();
+		Entities testInss = new Entities();
 		for(double i = 0 ; i <= 1; i += 0.1){ // cov
 			for (double j = 0 ; j <=1; j += 0.1){ // pop
 				ArrayList<String> features = new ArrayList<String>();
 				features.add(Double.toString(j));
 				features.add(Double.toString(i));
 				// features.add(cov.features.get(0));
-				testInss.add(new Instance(features));
+				testInss.add(new Entity(features));
 			}
 		}
 		//================== Generating logistic regression model for n times ====================
@@ -81,23 +86,23 @@ public class RankingTest {
 	 * @param model
 	 * @return
 	 */
-	public static boolean testDis(ArrayList<Instance> testInss, String model){
+	public static boolean testDis(Entities testInss, String model){
 //		String model = "4.56	-0.64	-2.21\n" +
 //				"2.66	-3.21	0.04\n" + 
 //				"-4.22	2.58	1.71";
 
-				Logistic.calcScore(testInss, new int[]{0, 1}, model);
+				Logistic.calcScore(testInss.getList(), new int[]{0, 1}, model);
 				System.out.println("sorting");
-				Multimap<String,Instance> testGroups= Operations.groupBy(testInss,1);
-				Operations.sortByGroup(testGroups, testInss.get(0).features.size()-1);
+				Multimap<String,Entity> testGroups= Operations.groupBy(testInss,1);
+				Operations.sortByGroup(testGroups, testInss.getList().get(0).features.size()-1, true);
 				//IO.writeData(testGroups, "test.rank.txt");
 				// checking
 				boolean check = true;
 				for(String cov : testGroups.keySet()){
-					ArrayList<Instance> group = new ArrayList<Instance>(testGroups.get(cov));
-					Instance prevIns = group.get(0);
+					ArrayList<Entity> group = new ArrayList<Entity>(testGroups.get(cov));
+					Entity prevIns = group.get(0);
 					for(int i =1; i < group.size() ; i ++){
-						Instance ins = group.get(i);
+						Entity ins = group.get(i);
 						check = check && (Double.parseDouble(prevIns.features.get(0)) <= Double.parseDouble(ins.features.get(0)));
 					}
 				}

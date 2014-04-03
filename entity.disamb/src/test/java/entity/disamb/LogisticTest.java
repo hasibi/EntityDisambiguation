@@ -6,6 +6,12 @@ import java.util.ArrayList;
 
 import org.junit.Test;
 
+import disRanking.Logistic;
+
+import entity.disamb.process.*;
+
+
+
 public class LogisticTest {
 	
 	/**
@@ -16,7 +22,7 @@ public class LogisticTest {
 		ArrayList<String> features = new ArrayList<String>();
 		features.add(Double.toString(0.08));
 		features.add(Double.toString(0.59));
-		Instance ins = new Instance(features);
+		Entity ins = new Entity(features);
 		String[] line = new String[]{"5.58", "-7.18", "0.97"};
 		
 		/*

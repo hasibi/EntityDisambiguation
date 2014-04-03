@@ -1,0 +1,1125 @@
+1#A_Great_Day_in_Harlem_(film)	A Great Day in Harlem	MovieFilm	1	1	-14.880311980500798	20	2	
+2#A-Studio	A-Studio	MusicGroup	4	47	-14.880311980500798	30	1	
+1#Abadan_(film)	Abadan	MovieFilm	1	2	-15.542809105171042	101	3	
+2#Aberdeen_(band)	Aberdeen	MusicArtist	1	4	-13.421999180185983	612	3	
+1#Aberdeen_(film)	Aberdeen	MovieFilm	2	13	-16.28592906484476	612	3	
+2#Aberdeen_(song)	Aberdeen	MusicSingle	2	9	-15.525179747334802	612	3	
+2#Above_the_Clouds_(Cyndi_Lauper_song)	Above the Clouds	MusicSingle	1	6	-15.68146066849329	63	3	
+2#Above_the_Clouds_(Electric_Light_Orchestra_song)	Above the Clouds	MusicTrack	1	1	-15.54708115228968	63	3	
+2#Acroma_(band)	Acroma	MusicArtist	4	15	-14.880311980500798	14	1	
+2#Air/Cook/Sky	Air	MusicAlbum	1	1	-15.493736478765518	3870	3	
+2#Air_(Agua_de_Annique_album)	Air	MusicAlbum	1	1	-15.31638921207286	3870	3	
+2#Air_(Cecil_Taylor_album)	Air	MusicAlbum	1	1	-15.654347341925247	3870	3	
+1#Air_(film)	Air	MovieFilm	3	47	-15.65655452196627	3870	3	
+2#Air_(French_band)	Air	MusicArtist	48	172	-12.587541729474049	3870	3	
+2#Air_(jazz_group)	Air	MusicArtist	1	6	-12.947986180634508	3870	3	
+6#Air_(novel)	Air	Book	1	7	-14.880311980500798	3870	3	
+3#Akbar	Akbar	Person	223	1262	-13.816929159495555	296	1	
+2#Albion_(song)	Albion	MusicSingle	1	30	-15.588538684981778	426	3	
+2#Alison_(album)	Alison	MusicAlbum	1	1	-15.149004140516544	975	3	
+2#Alison_(song)	Alison	MusicSingle	18	1038	-15.602069702247405	975	3	
+2#Alyth_(singer)	Alyth	MusicArtist	1	4	-14.494204393724548	1	2	
+2#Ambassador_(album)	Ambassador	MusicAlbum	1	6	-15.31638921207286	1171	3	
+2#And_(John_Martyn_album)	And	MusicAlbum	1	7	-15.39769661321359	1843	3	
+2#Andina_(album)	Andina	MusicAlbum	1	1	-15.423114493716962	58	3	
+2#Andra_(musician)	Andra	MusicArtist	1	2	-14.880311980500798	412	3	
+2#Andre_(band)	Andre	MusicArtist	4	123	-13.31797750194098	366	3	
+1#Andre_(film)	Andre	MovieFilm	23	461	-15.831716304302615	366	1	
+2#Angkor_Wat_(band)	Angkor Wat	MusicArtist	1	26	-14.284611333459328	929	3	
+2#Angles_(Dan_Le_Sac_Vs_Scroobius_Pip_album)	Angles	MusicAlbum	1	1	-15.149004140516544	598	3	
+2#Angles_(The_Strokes_album)	Angles	MusicAlbum	4	47	-15.537741246843222	598	3	
+1#Anji_(film)	Anji	MovieFilm	3	60	-15.648029725524564	72	3	
+1#Anna_(1951_film)	Anna	MovieFilm	1	17	-15.387996609141982	2188	2	
+1#Anna_(1964_film)	Anna	MovieFilm	1	1	-16.29073790450519	2188	3	
+1#Anna_(1967_film)	Anna	MovieFilm	1	1	-16.05388192292436	2188	2	
+1#Anna_(1987_film)	Anna	MovieFilm	1	1	-15.584979469456421	2188	2	
+2#Anna_(Anna_Waronker_album)	Anna	MusicAlbum	1	1	-15.48199963694854	2188	3	
+2#Anna_(Go_to_Him)	Anna	MusicSingle	23	122	-15.080446021029793	2188	3	
+2#Anna_(singer)	Anna	MusicArtist	2	21	-15.149004140516544	2188	3	
+2#Anna_(song)	Anna	MusicSingle	1	19	-15.527591113435568	2188	3	
+2#Anna_(The_Courteeners_album)	Anna	MusicAlbum	1	1	-15.44589778359031	2188	3	
+2#Anza_(singer)	Anza	MusicArtist	1	7	-14.880311980500798	54	3	
+3#Apollo_(comics)	Apollo	Character	10	77	-14.880311980500798	3335	3	
+2#Apollo_(Nebula_album)	Apollo	MusicAlbum	1	1	-15.545561774687096	3335	3	
+2#Apollo_(Porno_Graffitti_song)	Apollo	MusicSingle	1	1	-15.47782687779107	3335	3	
+2#Apollo_(quintet)	Apollo	MusicGroup	4	21	-14.494204393724548	3335	3	
+1#Ara_(film)	Ara	MovieFilm	1	4	-15.112986723365887	867	3	
+1#Arch_of_Triumph_(1948_film)	Arch of Triumph	MovieFilm	5	20	-15.853060760591774	44	2	
+1#Arch_of_Triumph_(1985_film)	Arch of Triumph	MovieFilm	1	7	-15.958957983326009	44	2	
+6#Arch_of_Triumph_(novel)	Arch of Triumph	Book	3	6	-14.880311980500798	44	2	
+2#Arise_(Sepultura_album)	Arise	MusicAlbum	4	40	-15.540351750513931	1681	3	
+2#Arise_(song)	Arise	MusicSingle	1	10	-15.540351750513931	1681	3	
+3#Arjuna	Arjuna	Person	153	1191	-15.496349604595435	147	3	
+1#Assa_(film)	Assa	MovieFilm	1	1	-15.34317238575569	149	2	
+1#Baby_Bell_(actress)	Baby Bell	MovieActor	1	1	-15.2770763798599	17	2	
+2#Bag_(album)	Bag	MusicAlbum	1	1	-15.257425761272122	1128	3	
+1#Ballast_(film)	Ballast	MovieFilm	2	22	-14.880311980500798	528	2	
+1#Banaras_(2006_film)	Banaras	MovieFilm	1	3	-15.779442288610822	18	3	
+2#Banaras_(2009_film)	Banaras	MusicAlbum	1	8	-15.44589778359031	18	3	
+1#Bansari_(1978_film)	Bansari	MovieFilm	1	5	-16.68145409553685	5	3	
+2#Battle_(band)	Battle	MusicArtist	1	7	-14.880311980500798	1822	3	
+2#Battlefields_(album)	Battlefields	MusicAlbum	1	1	-15.379048402619501	13	3	
+1#Beans_(film)	Beans	MovieFilm	1	1	-14.880311980500798	654	3	
+2#Beans_(rapper)	Beans	MusicArtist	1	7	-13.999139189835109	654	2	
+2#Beck	Beck	MusicArtist	553	2489	-11.786403981241317	1236	1	
+2#Beck_(EP)	Beck	MusicAlbum	1	1	-15.525200907187608	1236	3	
+1#Beck_(film)	Beck	MovieFilm	2	11	-15.514202634995291	1236	3	
+2#Beck_(musician)	Beck	MusicArtist	1	34	-14.880311980500798	1236	3	
+2#Ben_(album)	Ben	MusicAlbum	3	83	-15.657602268727487	2546	3	
+1#Ben_(film)	Ben	MovieFilm	35	230	-15.744074902970754	2546	3	
+2#Ben_(song)	Ben	MusicSingle	87	2963	-15.657602268727487	2546	3	
+2#Beni_(album)	Beni	MusicAlbum	1	3	-15.451230008053578	74	3	
+2#Beni_(singer)	Beni	MusicArtist	2	23	-12.852505728497105	74	1	
+5#Berlin_(2009_film)	Berlin	TvShow	1	1	-14.880311980500798	1769	3	
+2#Berlin_(Art_Zoyd_album)	Berlin	MusicAlbum	1	1	-15.411914592120075	1769	3	
+2#Berlin_(band)	Berlin	MusicGroup	214	764	-13.288116753098706	1769	2	
+2#Berlin_(Lou_Reed_album)	Berlin	MusicAlbum	4	20	-15.574777806670244	1769	3	
+1#Bestia_(film)	Bestia	MovieFilm	1	8	-16.562298488354575	104	3	
+1#Bhadran_(director)	Bhadran	MovieDirector	1	3	-14.861298458669886	1	2	
+1#Bhalu	Bhalu	MovieFilm	1	16	-15.442466240334324	14	2	
+2#Big_Four_(band)	Big Four	MusicGroup	1	17	-13.999139189835109	59	3	
+2#Big_River_(album)	Big River	MusicAlbum	1	1	-15.31638921207286	182	3	
+2#Big_River_(Jimmy_Nail_song)	Big River	MusicSingle	1	1	-15.353511685951519	182	3	
+2#Big_River_(Johnny_Cash_song)	Big River	MusicSingle	8	49	-15.613012938357013	182	3	
+2#Bilal_(American_singer)	Bilal	MusicArtist	39	479	-13.31797750194098	361	1	
+2#Birthright_(album)	Birthright	MusicAlbum	1	1	-15.4664410152831	185	3	
+6#Birthright_(Doctor_Who)	Birthright	Book	1	1	-15.271174889448828	185	3	
+1#Birthright_(film)	Birthright	MovieFilm	1	7	-14.880311980500798	185	3	
+2#Black_Bird_(song)	Black Bird	MusicSingle	1	9	-15.423114493716962	170	3	
+2#Black_Hole/Blank_Canvas	Black Hole	MusicAlbum	1	1	-15.587664544697104	1245	3	
+2#Black_Mountain_(album)	Black Mountain	MusicAlbum	1	1	-15.257425761272122	238	3	
+2#Black_Mountain_(band)	Black Mountain	MusicArtist	20	284	-14.216343437410384	238	2	
+1#Black-Eyed_Susan_(2004_film)	Black-Eyed Susan	MovieFilm	1	2	-15.149004140516544	883	3	
+5#Blackadder	Blackadder	TvShow	96	522	-15.420658145030334	154	1	
+2#Blue_Angel_(band)	Blue Angel	MusicArtist	6	28	-13.837800913138208	502	3	
+2#Blue_Angel_(Blue_Angel_album)	Blue Angel	MusicAlbum	1	2	-15.646735701060138	502	3	
+2#Blue_Angel_(Strawbs_album)	Blue Angel	MusicAlbum	1	1	-15.518074135753311	502	3	
+5#Blue_Heaven_(Channel_4_TV_series)	Blue Heaven	TvShow	1	2	-15.675280269138723	84	3	
+6#Blue_Heaven_(novel)	Blue Heaven	Book	1	4	-14.880311980500798	84	2	
+1#Blueberry_(film)	Blueberry	MovieFilm	7	41	-15.669459730989214	900	2	
+2#Bojo_(band)	Bojo	MusicGroup	1	3	-14.880311980500798	39	3	
+2#Born_(album)	Born	MusicAlbum	1	7	-15.473941121559294	810	3	
+2#Born_(EP)	Born	MusicAlbum	1	1	-15.451230008053578	810	3	
+2#Born_(song)	Born	MusicTrack	1	1	-15.683313545028842	810	3	
+2#Borne_(band)	Borne	MusicArtist	1	8	-14.880311980500798	228	3	
+6#Bougainville_(novel)	Bougainville	Book	1	1	-14.880311980500798	54	3	
+1#Brahma_(1994_film)	Brahma	MovieFilm	1	3	-16.139201013220745	220	3	
+1#Brahma_(2013_film)	Brahma	MovieFilm	1	1	-15.63120585406717	220	3	
+2#Bravo_(5566_album)	Bravo	MusicAlbum	1	1	-15.428289174257852	34239	3	
+2#Bravo_(band)	Bravo	MusicGroup	2	17	-12.40894763033048	34239	3	
+2#Bravo_(Dr._Sin_album)	Bravo	MusicAlbum	1	1	-15.538248018856462	34239	3	
+6#Brethren_(novel)	Brethren	Book	1	2	-14.880311980500798	255	3	
+2#Brightside_(album)	Brightside	MusicAlbum	1	13	-15.149004140516544	59	3	
+6#Brooklyn_(novel)	Brooklyn	Book	1	1	-14.880311980500798	1821	3	
+1#Budrus_(film)	Budrus	MovieFilm	1	10	-14.880311980500798	20	1	
+2#Buffalo_(band)	Buffalo	MusicArtist	7	82	-13.421999180185983	2063	3	
+2#Buffalo_(EP)	Buffalo	MusicAlbum	1	1	-15.411914592120075	2063	3	
+2#Buffalo_(Frank_Zappa_album)	Buffalo	MusicAlbum	2	5	-15.556246858836841	2063	3	
+2#Buffalo_(The_Phoenix_Foundation_album)	Buffalo	MusicAlbum	1	1	-15.353511685951519	2063	3	
+2#Burn_(Alkaline_Trio_song)	Burn	MusicSingle	1	3	-15.556846243568456	1284	3	
+2#Burn_(Burn_EP)	Burn	MusicAlbum	1	1	-14.880311980500798	1284	3	
+2#Burn_(Deep_Purple_album)	Burn	MusicAlbum	26	86	-15.645815984533312	1284	3	
+2#Burn_(Deep_Purple_song)	Burn	MusicSingle	4	72	-15.645815984533312	1284	3	
+2#Burn_(Defiance_EP)	Burn	MusicAlbum	1	1	-15.432165616061994	1284	3	
+2#Burn_(Elemeno_P_song)	Burn	MusicSingle	1	1	-15.439632502963976	1284	3	
+2#Burn_(Fear_Factory_EP)	Burn	MusicAlbum	1	1	-15.640554300287489	1284	3	
+2#Burn_(Fumetsu_no_Face)	Burn	MusicSingle	1	1	-15.514861029163072	1284	3	
+2#Burn_(Industry_song)	Burn	MusicSingle	1	1	-15.257425761272122	1284	3	
+2#Burn_(Jessica_Mauboy_song)	Burn	MusicSingle	1	1	-15.54742207736832	1284	3	
+2#Burn_(Jo_Dee_Messina_album)	Burn	MusicAlbum	1	11	-15.597032839787401	1284	3	
+2#Burn_(Melba_Moore_album)	Burn	MusicAlbum	1	1	-15.533307985234506	1284	3	
+2#Burn_(Nine_Inch_Nails_song)	Burn	MusicSingle	1	10	-15.594176689130492	1284	3	
+6#Burn_(novella)	Burn	Book	1	1	-14.849505208905347	1284	3	
+2#Burn_(Peach_album)	Burn	MusicAlbum	1	1	-15.423114493716962	1284	3	
+2#Burn_(Ruth_Lorenzo_song)	Burn	MusicSingle	1	2	-15.149004140516544	1284	3	
+2#Burn_(Sister_Machine_Gun_album)	Burn	MusicAlbum	1	2	-15.383475016856233	1284	3	
+2#Burn_(Tina_Arena_song)	Burn	MusicSingle	1	10	-15.0315876499738	1284	3	
+2#Burn_(US_band)	Burn	MusicArtist	1	1	-14.880311980500798	1284	3	
+2#Burn_(Usher_song)	Burn	MusicSingle	9	143	-15.494943395909324	1284	3	
+2#Cadia	Cadia	MusicGroup	3	35	-14.880311980500798	26	2	
+2#Can_(album)	Can	MusicAlbum	1	3	-15.535122166806032	5918	3	
+2#Can_(band)	Can	MusicArtist	39	4126	-12.036803598869264	5918	2	
+2#Canto_(Charles_Lloyd_album)	Canto	MusicAlbum	1	1	-15.51682167385353	94	3	
+2#Canto_(Los_Super_Seven_album)	Canto	MusicAlbum	1	1	-15.149004140516544	94	3	
+2#Canto_(Soler_album)	Canto	MusicAlbum	1	2	-14.880311980500798	94	3	
+1#Canvas_(2006_film)	Canvas	MovieFilm	3	13	-15.489240435637855	2592	3	
+1#Canvas_(2010_film)	Canvas	MovieFilm	1	1	-16.678497752722045	2592	3	
+2#Canvas_(album)	Canvas	MusicAlbum	1	3	-15.31638921207286	2592	3	
+2#Canvas_(band)	Canvas	MusicArtist	1	11	-14.187442676379815	2592	3	
+2#Canvas_(song)	Canvas	MusicTrack	1	1	-15.571253477717798	2592	3	
+1#Carancho_(film)	Carancho	MovieFilm	1	8	-15.733170396669566	21	1	
+2#Carbon/Silicon	Carbon	MusicGroup	5	13	-14.22607957594001	1531	3	
+2#Caribou_(album)	Caribou	MusicAlbum	20	52	-15.573853353145124	663	3	
+2#Caribou_(musician)	Caribou	MusicArtist	11	35	-13.669498206180432	663	2	
+1#Carrot_Top	Carrot Top	MovieActor	404	1531	-14.27374585675104	984	1	
+1#Casablanca_(film)	Casablanca	MovieFilm	1081	5432	-15.819914365491357	2807	1	
+6#Casablanca_(novella)	Casablanca	Book	1	8	-14.880311980500798	2807	3	
+1#Casanova_(1918_film)	Casanova	MovieFilm	1	1	-16.399544914857366	636	3	
+5#Casanova_(1971_TV_serial)	Casanova	TvShow	1	10	-16.03321046949016	636	3	
+1#Casanova_(2005_film)	Casanova	MovieFilm	13	102	-15.836396888303035	636	2	
+5#Casanova_(2005_TV_serial)	Casanova	TvShow	6	34	-15.988871160160054	636	2	
+2#Casanova_(album)	Casanova	MusicAlbum	1	10	-15.473941121559294	636	3	
+2#Casanova_(Gisela_song)	Casanova	MusicSingle	1	1	-14.880311980500798	636	3	
+2#Casanova_(LeVert_song)	Casanova	MusicSingle	3	54	-15.379048402619501	636	3	
+2#Casanova_(Luv%27_song)	Casanova	MusicSingle	1	4	-15.548121720850173	636	3	
+6#Casanova_(novel)	Casanova	Book	1	4	-14.8803119805008	636	3	
+2#Casanova_(Paulina_Rubio_song)	Casanova	MusicSingle	1	18	-15.498753444353468	636	3	
+2#Case_(album)	Case	MusicAlbum	3	43	-15.39769661321359	3537	3	
+2#Case_(singer)	Case	MusicArtist	58	3243	-13.538111185828706	3537	2	
+6#Cat%27s_Cradle	Cat's Cradle	Book	100	907	-14.8803119805008	214	1	
+1#Cat%27s_Cradle_(film)	Cat's Cradle	MovieFilm	1	7	-14.978204666470745	214	3	
+3#Catherine_de%27_Medici	Catherine de' Medici	Person	94	356	-13.695881116844435	105	1	
+2#Cavo	Cavo	MusicArtist	16	114	-13.820796857245423	76	1	
+2#Cemetery_(album)	Cemetery	MusicAlbum	1	1	-15.379048402619501	1037	3	
+2#Cemetery_(Charlie_Simpson_song)	Cemetery	MusicSingle	1	1	-15.535943429303838	1037	3	
+2#Cemetery_(song)	Cemetery	MusicSingle	1	5	-15.515827973717121	1037	3	
+1#Centurion_(film)	Centurion	MovieFilm	76	973	-15.956405740154738	640	2	
+6#Centurion_(novel)	Centurion	Book	1	3	-14.880311980500798	640	3	
+2#Chairlift_(band)	Chairlift	MusicArtist	28	141	-14.216343437410384	81	1	
+1#Chaitra_(film)	Chaitra	MovieFilm	1	1	-15.989747366302817	4	2	
+1#Chander	Chander	MovieActor	1	17	-15.20884382687755	10	3	
+5#Changi_(TV_series)	Changi	TvShow	1	1	-15.532673213849076	41	2	
+2#Chenoa	Chenoa	MusicArtist	8	78	-13.421999180185983	73	1	
+2#Chenoa_(album)	Chenoa	MusicAlbum	1	2	-15.411914592120075	73	3	
+2#Cherno	Cherno	MusicAlbum	2	12	-15.257425761272122	13	3	
+2#Cherry_(EP)	Cherry	MusicSingle	1	1	-15.507860628659348	1392	3	
+2#Cherry_(song)	Cherry	MusicSingle	1	18	-15.48826332338235	1392	3	
+2#Chi_(Who)	Chi	MusicSingle	1	2	-14.880311980500798	2101	3	
+1#Christina_(1929_film)	Christina	MovieFilm	1	1	-15.939080726434126	1011	3	
+1#Christina_(1984_film)	Christina	MovieFilm	2	11	-15.41328456353319	1011	3	
+2#Christmasville	Christmasville	MusicAlbum	1	10	-15.493736478765518	8	1	
+1#Circus_World_(film)	Circus World	MovieFilm	3	110	-15.410644749928267	84	2	
+6#Circus_World_(novel)	Circus World	Book	1	1	-14.880311980500798	84	3	
+2#Clapton_(1973_album)	Clapton	MusicAlbum	1	3	-15.704756653668145	157	3	
+2#Clapton_(2010_album)	Clapton	MusicAlbum	2	57	-15.704756653668145	157	3	
+6#Clermont_(novel)	Clermont	Book	1	2	-14.880311980500798	101	3	
+2#Cleveland_(album)	Cleveland	MusicAlbum	1	1	-15.656567252427262	7213	3	
+2#Clifton_Hill_(album)	Clifton Hill	MusicAlbum	1	1	-15.39769661321359	81	3	
+2#Cloud_Nine_(George_Harrison_album)	Cloud Nine	MusicAlbum	3	49	-15.625655495768761	375	3	
+2#Cloud_Nine_(Kottonmouth_Kings_album)	Cloud Nine	MusicAlbum	1	4	-15.538406234703022	375	3	
+2#Cloud_Nine_(The_Temptations_album)	Cloud Nine	MusicAlbum	1	10	-15.662575131873703	375	3	
+2#Cloud_Nine_(The_Temptations_song)	Cloud Nine	MusicSingle	1	43	-15.662575131873703	375	3	
+1#Cockpit_(film)	Cockpit	MovieFilm	1	1	-16.42423715149466	388	3	
+2#Come_(1_album)	Come	MusicAlbum	1	2	-14.880311980500798	1297	3	
+2#Come_(American_band)	Come	MusicArtist	7	445	-14.592065201329268	1297	3	
+2#Come_(Prince_album)	Come	MusicAlbum	2	23	-15.585868781564539	1297	3	
+2#Come_(US_band)	Come	MusicArtist	1	12	-14.166541464730134	1297	3	
+2#Corner_(Blue_Stahli_song)	Corner	MusicSingle	1	1	-15.432165616061994	352	3	
+2#Corpus_(album)	Corpus	MusicAlbum	1	1	-15.556026232617201	244	3	
+1#Crook_(film)	Crook	MovieFilm	5	450	-15.907826130593934	400	3	
+1#Cross_(1987_film)	Cross	MovieFilm	1	1	-14.880311980500798	3105	3	
+1#Cross_(2011_film)	Cross	MovieFilm	2	40	-15.480688822084385	3105	3	
+1#Cross_(2012_film)	Cross	MovieFilm	1	2	-15.935755885179404	3105	3	
+2#Cross_(City_Harvest_Church_album)	Cross	MusicAlbum	1	44	-14.880311980500798	3105	3	
+2#Cross_(Justice_album)	Cross	MusicAlbum	1	1	-15.39769661321359	3105	3	
+2#Crosswinds_(Billy_Cobham_album)	Crosswinds	MusicAlbum	3	9	-15.62281349174722	90	3	
+2#Crosswinds_(Capercaillie_album)	Crosswinds	MusicAlbum	1	1	-15.519924525445285	90	3	
+1#Crosswinds_(film)	Crosswinds	MovieFilm	1	4	-16.332444459195678	90	3	
+2#Crosswinds_(Peabo_Bryson_album)	Crosswinds	MusicAlbum	1	3	-15.379048402619501	90	3	
+2#Crystal_(Ahmad_Jamal_album)	Crystal	MusicAlbum	1	1	-15.497023832618803	2164	3	
+2#Crystal_(Crystal_Gayle_album)	Crystal	MusicAlbum	1	8	-15.574004310619996	2164	3	
+6#Crystal_(novel)	Crystal	Book	1	9	-14.880311980500798	2164	3	
+2#Crystal_(song)	Crystal	MusicSingle	3	30	-15.590651955655247	2164	3	
+1#Cuci	Cuci	MovieFilm	1	22	-14.985712891720098	15	2	
+2#DOM_(album)	DOM	MusicAlbum	1	1	-15.459821152195277	1380	3	
+1#Dabba_(film)	Dabba	MovieFilm	1	9	-16.350165767254953	4	2	
+2#Dad_(Breakfast_with_Amy_album)	Dad	MusicAlbum	1	1	-15.44589778359031	4423	3	
+1#Dad_(film)	Dad	MovieFilm	6	3939	-15.58437926516506	4423	2	
+5#Dad_(TV_series)	Dad	TvShow	17	98	-15.704297080609702	4423	3	
+2#Days/Green	Days	MusicSingle	1	4	-15.52096274661245	1221	3	
+2#Days_(album)	Days	MusicAlbum	1	25	-15.149004140516544	1221	3	
+2#Days_(Alisa_Mizuki_song)	Days	MusicSingle	1	1	-15.533896112450284	1221	3	
+2#Days_(High_and_Mighty_Color_song)	Days	MusicSingle	1	1	-15.788549008106472	1221	3	
+2#Days_(The_Kinks_song)	Days	MusicSingle	3	7	-15.62791713258112	1221	3	
+6#Dead_Sea_(novel)	Dead Sea	Book	1	8	-14.8803119805008	993	3	
+2#Dear_(Mika_Nakashima_song)	Dear	MusicSingle	1	1	-16.153545577514322	637	3	
+2#Dear_(Vivid_song)	Dear	MusicSingle	1	1	-15.439632502963976	637	3	
+1#Deep_Valley	Deep Valley	MovieFilm	3	64	-16.071535603860596	25	2	
+2#Den_(album)	Den	MusicAlbum	1	1	-15.31638921207286	488	3	
+1#Den_(film)	Den	MovieFilm	1	5	-14.880311980500798	488	3	
+3#Den_(pharaoh)	Den	Person	1	8	-15.087067192700509	488	3	
+2#Destin_(song)	Destin	MusicSingle	1	4	-15.60128791568467	1007	3	
+2#Destination_(Eloy_album)	Destination	MusicAlbum	1	1	-15.463332497292352	907	3	
+2#Destination_(EP)	Destination	MusicAlbum	1	2	-15.523819105241603	907	3	
+2#Destination_(FictionJunction_Yuuka_album)	Destination	MusicAlbum	1	1	-16.340141659610204	907	3	
+2#Destination_(Ronan_Keating_album)	Destination	MusicAlbum	1	4	-15.683637150587954	907	3	
+2#Detonator_(album)	Detonator	MusicAlbum	2	50	-15.534439278386147	55	3	
+2#Detonator_(EP)	Detonator	MusicAlbum	1	1	-15.257425761272122	55	3	
+1#Deva_(film)	Deva	MovieFilm	1	9	-16.679137975788183	183	3	
+2#Deva_(music_director)	Deva	MusicArtist	6	55	-11.382456222082732	183	2	
+2#Dhada	Dhada	MusicAlbum	1	13	-15.53703763950267	1	1	
+1#Dharkan	Dharkan	MovieFilm	1	13	-15.90291402851861	8	2	
+1#Diamonds_(1920_film)	Diamonds	MovieFilm	1	1	-15.748606224884302	3292	3	
+1#Diamonds_(1975_film)	Diamonds	MovieFilm	1	1	-15.629907765317133	3292	3	
+1#Diamonds_(1999_film)	Diamonds	MovieFilm	1	11	-15.100411620553485	3292	3	
+2#Diamonds_(Amanda_Lear_song)	Diamonds	MusicSingle	1	1	-15.622180856546136	3292	3	
+2#Diamonds_(Herb_Alpert_song)	Diamonds	MusicSingle	3	43	-15.55994676177165	3292	3	
+2#Diamonds_(Rihanna_song)	Diamonds	MusicSingle	83	2808	-15.502289059097453	3292	3	
+2#Diamonds_(Starboy_Nathan_song)	Diamonds	MusicSingle	1	1	-15.31638921207286	3292	3	
+2#Diorama_(album)	Diorama	MusicAlbum	1	10	-15.515827973717121	289	3	
+2#Diorama_(band)	Diorama	MusicGroup	2	8	-13.891839644084891	289	2	
+2#Diplo_(DJ)	Diplo	MusicArtist	170	557	-13.898609622755064	430	1	
+1#Ditto_(1937_film)	Ditto	MovieFilm	1	1	-16.164861604721725	851	3	
+2#Do_(album)	Do	MusicAlbum	1	7	-15.39769661321359	3128	3	
+2#Do_(singer)	Do	MusicArtist	6	91	-14.880311980500798	3128	3	
+1#Don_Lorenzo_(film)	Don Lorenzo	MovieFilm	1	1	-16.337668947868092	1	2	
+1#Donia	Donia	MovieActor	1	33	-14.880311980500798	17	2	
+2#Donnie	Donnie	MusicSingle	3	91	-15.613675216720376	78	3	
+1#Dosar	Dosar	MovieFilm	1	11	-16.285083880924464	3	1	
+2#Drei	Drei	MusicAlbum	1	60	-15.251875536933479	57	2	
+2#Dres_(rapper)	Dres	MusicArtist	1	181	-14.880311980500798	170	2	
+2#Dump_(band)	Dump	MusicGroup	1	1	-15.489776013594723	1043	3	
+2#Dune_(Dune_album)	Dune	MusicAlbum	1	3	-15.607822359521304	1088	3	
+1#Dune_(film)	Dune	MovieFilm	158	1152	-15.085794789917642	1088	2	
+2#Dune_(German_band)	Dune	MusicArtist	1	2	-13.431765407320372	1088	3	
+2#Dune_(Klaus_Schulze_album)	Dune	MusicAlbum	1	1	-15.559622257251297	1088	3	
+2#Dune_(L%27Arc-en-Ciel_album)	Dune	MusicAlbum	1	9	-15.717768906933506	1088	3	
+6#Dune_(novel)	Dune	Book	351	2103	-14.880311980500796	1088	1	
+2#Dune_(soundtrack)	Dune	MusicAlbum	11	49	-15.57204621476895	1088	3	
+1#Duplex_(film)	Duplex	MovieFilm	9	90	-16.755001316034715	383	2	
+1#Earth_(1930_film)	Earth	MovieFilm	1	7	-15.933998993625456	4390	3	
+1#Earth_(1957_film)	Earth	MovieFilm	1	1	-14.880311980500798	4390	3	
+1#Earth_(1996_film)	Earth	MovieFilm	1	1	-16.157005115805603	4390	3	
+2#Earth_(1998_film)	Earth	MusicAlbum	7	48	-15.59574615962757	4390	3	
+1#Earth_(2007_film)	Earth	MovieFilm	1	81	-15.185716924274118	4390	3	
+2#Earth_(band)	Earth	MusicArtist	12	77	-12.674768769006263	4390	2	
+6#Earth_(Farca_novel)	Earth	Book	1	1	-14.880311980500798	4390	3	
+2#Earth_(Jefferson_Starship_album)	Earth	MusicAlbum	10	106	-15.614753176047003	4390	3	
+2#Earth_(Matthew_Sweet_album)	Earth	MusicAlbum	1	3	-15.496272561082822	4390	3	
+6#Earth_(novel)	Earth	Book	4	6	-14.880311980500798	4390	3	
+6#Earth_(The_Book)	Earth	Book	5	36	-13.075148491629442	4390	3	
+2#Earth_(Vangelis_album)	Earth	MusicAlbum	1	1	-15.541166182099275	4390	3	
+5#Ebenezer_(film)	Ebenezer	TvShow	1	6	-15.845916061133899	288	2	
+6#Ecce_Homo_(book)	Ecce Homo	Book	7	169	-14.880311980500798	115	2	
+2#Ecce_Homo_(Grant_Hart_album)	Ecce Homo	MusicAlbum	1	4	-15.481484719850346	115	3	
+2#Ecce_Homo_(The_Hidden_Cameras_album)	Ecce Homo	MusicAlbum	1	1	-15.39769661321359	115	3	
+5#Edgemont_(TV_series)	Edgemont	TvShow	32	150	-15.50203150131234	53	1	
+2#El_Cielo_(album)	El Cielo	MusicAlbum	1	18	-15.432165616061994	23	1	
+2#El_Cielo_(band)	El Cielo	MusicGroup	1	3	-13.820796857245423	23	3	
+2#El_Indio	El Indio	MusicAlbum	1	1	-15.44589778359031	76	3	
+5#El_Manantial	El Manantial	TvShow	9	84	-15.031412710213747	19	2	
+5#Empire_(1962_TV_series)	Empire	TvShow	24	128	-15.395928553836146	3093	3	
+1#Empire_(1964_film)	Empire	MovieFilm	2	20	-16.532654141057503	3093	3	
+1#Empire_(1986_film)	Empire	MovieFilm	1	1	-15.827085275057376	3093	3	
+6#Empire_(1987_novel)	Empire	Book	1	1	-14.880311980500798	3093	3	
+1#Empire_(2002_film)	Empire	MovieFilm	5	45	-15.459236186027814	3093	2	
+5#Empire_(2005_TV_series)	Empire	TvShow	4	23	-15.483172664915026	3093	3	
+6#Empire_(2006_novel)	Empire	Book	6	36	-14.868151105572156	3093	3	
+6#Empire_(2010_novel)	Empire	Book	1	1	-14.880311980500798	3093	3	
+2#Empire_(band)	Empire	MusicGroup	4	16	-14.234725218039932	3093	3	
+2#Empire_(Circle_album)	Empire	MusicAlbum	1	1	-15.495502088113401	3093	3	
+2#Empire_(EP)	Empire	MusicAlbum	2	5	-15.353511685951519	3093	3	
+2#Empire_(Frankie_DeCarlos_album)	Empire	MusicAlbum	1	1	-15.149004140516544	3093	3	
+2#Empire_(Kasabian_album)	Empire	MusicAlbum	1	2	-15.50948522395994	3093	3	
+2#Empire_(Kasabian_song)	Empire	MusicSingle	1	1	-15.50948522395994	3093	3	
+2#Empire_(Madball_album)	Empire	MusicAlbum	1	1	-15.549550655047613	3093	3	
+2#Empire_(Queensr%c3%bfche_album)	Empire	MusicAlbum	20	105	-15.608359138279098	3093	3	
+2#Empire_(Queensr%c3%bfche_song)	Empire	MusicSingle	1	4	-15.608359138279098	3093	3	
+2#Empire_(Super8_&_Tab_album)	Empire	MusicAlbum	1	2	-14.880311980500798	3093	3	
+2#Ena_(album)	Ena	MusicAlbum	1	1	-15.4664410152831	837	3	
+1#Encore_(1951_film)	Encore	MovieFilm	2	14	-15.247743386606343	1958	3	
+1#Encore_(1996_film)	Encore	MovieFilm	1	1	-16.145754794493275	1958	3	
+2#Encore_(Bobby_Vinton_album)	Encore	MusicAlbum	1	1	-15.568513119605955	1958	3	
+2#Encore_(Cheryl_Lynn_song)	Encore	MusicSingle	4	44	-15.439632502963976	1958	3	
+2#Encore_(Clark_Sisters_album)	Encore	MusicAlbum	1	9	-15.460152898274123	1958	3	
+2#Encore_(David_Garrett_album)	Encore	MusicAlbum	1	5	-15.257425761272122	1958	3	
+2#Encore_(Elaine_Paige_album)	Encore	MusicAlbum	1	1	-15.459821152195277	1958	3	
+2#Encore_(Eminem_album)	Encore	MusicAlbum	38	171	-15.530397998584041	1958	3	
+2#Encore_(Jay-Z_song)	Encore	MusicTrack	3	30	-15.533730779503225	1958	3	
+2#Encore_(Johnny_Cash_album)	Encore	MusicAlbum	1	1	-15.613012938357013	1958	3	
+2#Encore_(Klaus_Nomi_album)	Encore	MusicAlbum	1	3	-15.31638921207286	1958	3	
+2#Encore_(Lionel_Richie_album)	Encore	MusicAlbum	1	1	-15.554324265164393	1958	3	
+2#Encore_(Russell_Watson_album)	Encore	MusicAlbum	1	3	-15.65807713769577	1958	3	
+2#Encore_(S.H.E_album)	Encore	MusicAlbum	1	4	-15.4664410152831	1958	3	
+2#Encore_(Sam_Cooke_album)	Encore	MusicAlbum	1	1	-15.673211072605328	1958	3	
+2#Encore_(Sarah_Brightman_album)	Encore	MusicAlbum	1	2	-15.591208582430328	1958	3	
+2#Encore_(Tangerine_Dream_album)	Encore	MusicAlbum	1	4	-15.554684158373004	1958	3	
+2#Encore_(The_Louvin_Brothers_album)	Encore	MusicAlbum	1	1	-15.465495409160148	1958	3	
+1#Envy_(2004_film)	Envy	MovieFilm	10	114	-15.741111076219639	1014	2	
+1#Envy_(2009_film)	Envy	MovieFilm	1	3	-16.252711973798974	1014	3	
+2#Envy_(Ambitious_Lovers_album)	Envy	MusicAlbum	1	1	-15.257425761272122	1014	3	
+2#Envy_(band)	Envy	MusicArtist	7	70	-13.426969648040007	1014	2	
+2#Envy_(Eve%27s_Plum_album)	Envy	MusicAlbum	1	1	-15.464667507517367	1014	3	
+6#Envy_(Olesha_novel)	Envy	Book	1	3	-14.880311980500798	1014	3	
+2#Envy_(song)	Envy	MusicSingle	1	4	-15.53981483967547	1014	3	
+1#Evangeline_(1919_film)	Evangeline	MovieFilm	1	1	-16.21715504240286	219	3	
+1#Evangeline_(1929_film)	Evangeline	MovieFilm	1	1	-15.926901863880445	219	3	
+2#Evangeline_(Emmylou_Harris_album)	Evangeline	MusicAlbum	1	15	-15.770144398745284	219	3	
+2#Evangeline_(Gary_Lucas_album)	Evangeline	MusicAlbum	1	1	-15.54543952694988	219	3	
+2#Evangeline_(song)	Evangeline	MusicAlbum	1	9	-15.591282908145422	219	3	
+2#Ezo_(band)	Ezo	MusicArtist	5	102	-14.282535861846725	84	2	
+1#Fara_(film)	Fara	MovieFilm	1	2	-14.880311980500798	333	3	
+1#Fargo_(film)	Fargo	MovieFilm	301	2288	-15.864251185836443	920	1	
+2#Farmers_Market_(band)	Farmers Market	MusicArtist	1	10	-14.467780455824432	1171	3	
+2#Farrar_(album)	Farrar	MusicAlbum	1	1	-15.425966445252547	23	3	
+1#February_(film)	February	MovieFilm	1	3	-16.254495943929868	533	3	
+2#Finn_(album)	Finn	MusicAlbum	1	4	-15.591883400505584	1653	3	
+2#Fiore_(album)	Fiore	MusicAlbum	1	1	-15.533896112450284	162	3	
+2#Flute	Flute	MusicArtist	119	1723	-14.874010352084772	565	3	
+1#Fog_Island	Fog Island	MovieFilm	1	9	-16.508051139326255	2	2	
+2#Footsteps_(1960_song)	Footsteps	MusicSingle	1	1	-15.585842312713396	259	3	
+2#Footsteps_(album)	Footsteps	MusicAlbum	1	1	-15.48826332338235	259	3	
+2#Footsteps_(Dardanelles_song)	Footsteps	MusicSingle	1	3	-15.31638921207286	259	3	
+1#Francesco_(film)	Francesco	MovieFilm	1	97	-16.09209342120342	130	3	
+1#Frieda_(film)	Frieda	MovieFilm	1	23	-15.70598405403189	260	2	
+1#Gallants_(film)	Gallants	MovieFilm	1	6	-15.108918307142632	1	2	
+1#Gangadhar_(Kannada_actor)	Gangadhar	MovieActor	1	1	-14.999997591531834	4	2	
+2#Gass_(band)	Gass	MusicArtist	1	3	-15.005213745814833	84	2	
+2#Gem_(album)	Gem	MusicAlbum	1	1	-15.451230008053578	1484	3	
+2#Gem_(band)	Gem	MusicGroup	1	5	-13.999139189835109	1484	3	
+2#Gente	Gente	MusicSingle	1	109	-15.624731588280158	105	3	
+3#George_Washington	George Washington	Person	2404	17283	-14.80457179400469	3796	1	
+1#George_Washington_(film)	George Washington	MovieFilm	4	58	-16.451902063435462	3796	3	
+5#George_Washington_(miniseries)	George Washington	TvShow	7	22	-15.972301696855867	3796	3	
+2#George_Washington_(trombonist)	George Washington	MusicArtist	1	1	-15.482259195341717	3796	3	
+5#George_Washington_(TV_miniseries)	George Washington	TvActor	2	21	-15.972301696855867	3796	3	
+2#Give_(album)	Give	MusicAlbum	1	1	-15.432165616061994	912	3	
+2#Give_(EP)	Give	MusicAlbum	1	1	-15.52384905072717	912	3	
+2#Give_(song)	Give	MusicSingle	1	40	-15.61234535160456	912	3	
+5#Glen_Murray_(ice_hockey)	Glen Murray	TvActor	4	50	-14.880311980500798	16	2	
+2#Globe_(album)	Globe	MusicAlbum	1	2	-15.588168249004033	3662	3	
+2#Globe_(band)	Globe	MusicArtist	6	46	-13.632104449341933	3662	3	
+1#Godavari_(film)	Godavari	MovieFilm	4	24	-15.883044385358511	22	2	
+1#Golden_Mountains_(film)	Golden Mountains	MovieFilm	1	1	-15.575630993520425	1	2	
+2#Goldie	Goldie	MusicArtist	26	706	-14.119623905765277	478	3	
+1#Goldie_(film)	Goldie	MovieFilm	1	4	-15.799220583370909	478	3	
+2#Goldie_(song)	Goldie	MusicSingle	1	30	-15.353511685951519	478	3	
+2#Gonga_(band)	Gonga	MusicGroup	1	23	-14.437771003228043	22	1	
+2#Good_Things_(Aloe_Blacc_album)	Good Things	MusicAlbum	1	1	-15.353511685951519	87	2	
+1#Gorgo_(film)	Gorgo	MovieFilm	18	82	-15.83020959111102	64	1	
+2#Grace/Wastelands	Grace	MusicAlbum	1	1	-15.571209139617169	1824	3	
+2#Grace_(Apocalyptica_song)	Grace	MusicTrack	1	4	-15.531783114662849	1824	3	
+2#Grace_(band)	Grace	MusicArtist	1	11	-14.880311980500798	1824	3	
+2#Grace_(Ed_Kowalczyk_song)	Grace	MusicSingle	1	2	-15.482555204369033	1824	3	
+1#Grace_(film)	Grace	MovieFilm	19	110	-15.804173907473738	1824	3	
+2#Grace_(Jeff_Buckley_album)	Grace	MusicAlbum	10	76	-15.585889089895934	1824	3	
+2#Grace_(Jeff_Buckley_song)	Grace	MusicSingle	1	1	-15.585889089895934	1824	3	
+2#Grace_(Mandy_Capristo_album)	Grace	MusicAlbum	1	12	-15.449887801236542	1824	3	
+2#Grace_(Miss_Kittin_song)	Grace	MusicSingle	1	1	-15.743127776943272	1824	3	
+2#Grace_(Phil_Wickham_song)	Grace	MusicSingle	1	15	-15.411914592120075	1824	3	
+6#Grace_(short_story)	Grace	Book	1	16	-14.880311980500798	1824	3	
+2#Grace_(Simon_Webbe_album)	Grace	MusicAlbum	2	12	-15.50964301256764	1824	3	
+2#Grace_(Supergrass_song)	Grace	MusicSingle	1	1	-15.535546732859173	1824	3	
+2#Grace_(The_View_song)	Grace	MusicSingle	1	1	-15.473941121559294	1824	3	
+2#Grace_(U2_song)	Grace	MusicTrack	1	11	-15.541542188441131	1824	3	
+2#Grace_(Will_Young_song)	Grace	MusicSingle	1	3	-15.644574338357017	1824	3	
+2#Grace_/_Ride_The_Storm	Grace	MusicSingle	1	1	-15.50964301256764	1824	3	
+2#Grace_Darling_(song)	Grace Darling	MusicSingle	1	18	-15.518074135753311	18	3	
+2#Gracias_a_Dios_(song)	Gracias a Dios	MusicSingle	1	1	-15.585134199792874	29	3	
+5#Grandstand_(TV_series)	Grandstand	TvShow	1	9	-15.073956597112302	66	3	
+2#Green_Grass_(song)	Green Grass	MusicSingle	2	15	-15.439632502963976	224	3	
+3#Griffin_(Marvel_Comics)	Griffin	Character	2	19	-14.907161601642441	1331	3	
+2#Hallo_(2007_film)	Hallo	MusicAlbum	1	34	-15.149004140516544	602	3	
+5#Hank_(1965_TV_series)	Hank	TvShow	9	19	-15.418034514539858	208	3	
+5#Hank_(2009_TV_series)	Hank	TvShow	3	16	-15.65652534504123	208	3	
+2#Hank_(album)	Hank	MusicAlbum	1	1	-15.5936126244894	208	3	
+5#Happy_Days	Happy Days	TvShow	854	5319	-14.95598804983366	1497	1	
+1#Happy_Days_(1929_film)	Happy Days	MovieFilm	1	9	-15.532496347231902	1497	3	
+1#Happy_Days_(1991_film)	Happy Days	MovieFilm	1	1	-15.963531513796374	1497	3	
+1#Happy_Days_(2007_film)	Happy Days	MovieFilm	7	71	-15.803800483117097	1497	3	
+2#Happy_Days_(Ai_Otsuka_song)	Happy Days	MusicSingle	1	1	-15.486204692966018	1497	3	
+2#Happy_Days_(album)	Happy Days	MusicAlbum	1	26	-15.450122620453817	1497	3	
+2#Happy_Days_(TV_theme)	Happy Days	MusicSingle	1	3	-14.880311980500798	1497	3	
+3#Haran	Haran	Person	28	95	-15.613350788787463	46	2	
+2#Hardware_(album)	Hardware	MusicAlbum	1	7	-15.533695604659286	2936	3	
+2#Hardware_(band)	Hardware	MusicArtist	1	2	-14.850969187542901	2936	3	
+1#Hardware_(film)	Hardware	MovieFilm	1	20	-15.467222655633238	2936	3	
+5#Hardware_(TV_series)	Hardware	TvShow	1	12	-15.524677077361972	2936	3	
+1#Harlow_(Magna_film)	Harlow	MovieFilm	1	4	-15.746838115789544	122	3	
+1#Harlow_(Paramount_film)	Harlow	MovieFilm	2	11	-15.734567216155899	122	2	
+1#Hawas	Hawas	MovieFilm	1	3	-15.637203754594179	33	2	
+1#Hawas_(2004_film)	Hawas	MovieFilm	1	39	-15.855102897970655	33	2	
+2#Height_(album)	Height	MusicAlbum	1	1	-15.569137234513095	492	3	
+1#Hester_Street_(film)	Hester Street	MovieFilm	2	21	-16.43978214976479	9	1	
+6#Hiroshima_(book)	Hiroshima	Book	13	106	-14.880311980500798	868	2	
+1#Hiroshima_(film)	Hiroshima	MovieFilm	3	26	-16.12383774658499	868	3	
+2#Hiroshima_(song)	Hiroshima	MusicSingle	1	5	-15.619263171846931	868	3	
+2#Holler_(Ginuwine_song)	Holler	MusicSingle	1	2	-15.545482452973385	223	3	
+2#Holler_(Spice_Girls_song)	Holler	MusicSingle	3	51	-15.583435311344527	223	3	
+2#Homburg_(song)	Homburg	MusicSingle	2	8	-15.639888568279186	64	3	
+1#Hong_Kong_(1951_film)	Hong Kong	MovieFilm	1	1	-16.041766994715843	4931	3	
+2#Hong_Kong_(album)	Hong Kong	MusicAlbum	1	20	-15.554044459704375	4931	3	
+5#Hong_Kong_(TV_series)	Hong Kong	TvShow	9	98	-16.354464808637662	4931	3	
+2#Hoodoo_(Alison_Moyet_album)	Hoodoo	MusicAlbum	1	1	-15.568630676195122	301	3	
+2#Hoodoo_(John_Fogerty_album)	Hoodoo	MusicAlbum	2	4	-15.642530312522382	301	3	
+2#Hoodoo_(Krokus_album)	Hoodoo	MusicAlbum	1	5	-15.533695604659286	301	3	
+3#Hooge_(prince)	Hooge	Person	1	2	-15.632054879259005	2	2	
+1#Hope_(2006_film)	Hope	MovieFilm	1	1	-16.099364508044673	2049	3	
+1#Hope_(2007_film)	Hope	MovieFilm	1	2	-14.880311980500798	2049	3	
+6#Hope_(Doctor_Who)	Hope	Book	1	4	-15.217086834767242	2049	3	
+2#Hope_(Harem_Scarem_album)	Hope	MusicAlbum	1	1	-15.557972138650477	2049	3	
+2#Hope_(Hawthorne_Heights_EP)	Hope	MusicAlbum	1	1	-15.44589778359031	2049	3	
+2#Hope_(Hillsong_album)	Hope	MusicAlbum	2	19	-15.519942263045417	2049	3	
+2#Hope_(instrumental)	Hope	MusicTrack	1	1	-15.570514651579057	2049	3	
+2#Hope_(Jack_Johnson_song)	Hope	MusicSingle	1	1	-15.47952105800452	2049	3	
+2#Hope_(Klaatu_album)	Hope	MusicAlbum	1	5	-15.563445750036825	2049	3	
+2#Hope_(Non-Prophets_album)	Hope	MusicAlbum	1	2	-15.478706020447156	2049	3	
+2#Hope_(Our_Lady_Peace_song)	Hope	MusicSingle	1	1	-15.514580027004465	2049	3	
+2#Hope_(Palace_Songs_EP)	Hope	MusicAlbum	1	1	-14.880311980500798	2049	3	
+2#Hope_(Silent_Border_album)	Hope	MusicAlbum	1	1	-14.880311980500798	2049	3	
+2#Hope_(Swallow_the_Sun_album)	Hope	MusicAlbum	1	3	-15.492630620485658	2049	3	
+2#Hope_(The_Blackout_album)	Hope	MusicAlbum	1	1	-15.379048402619501	2049	3	
+2#Hopetown_(album)	Hopetown	MusicAlbum	1	1	-15.595203621405801	18	2	
+2#Hotel_New_York	Hotel New York	MusicAlbum	1	4	-15.31638921207286	578	3	
+2#Hues_(album)	Hues	MusicAlbum	1	1	-15.606891137959934	65	3	
+1#Hunting_(film)	Hunting	MovieFilm	1	7	-15.783139058516033	1992	3	
+1#Huntingtower_(film)	Huntingtower	MovieFilm	1	1	-15.356871481870423	7	3	
+1#Hurrah_(film)	Hurrah	MovieFilm	1	2	-15.876009538101403	74	3	
+2#Idoli	Idoli	MusicArtist	3	8	-12.940765417779813	14	1	
+2#Indiana_(David_Mead_album)	Indiana	MusicAlbum	1	1	-15.39769661321359	3520	3	
+2#Indiana_(Jon_McLaughlin_album)	Indiana	MusicAlbum	1	5	-15.39769661321359	3520	3	
+6#Indiana_(novel)	Indiana	Book	1	25	-14.880311980500798	3520	3	
+2#Invicta_(album)	Invicta	MusicAlbum	1	1	-15.353511685951519	2072	3	
+6#Iracema	Iracema	Book	2	14	-14.880311980500798	3	1	
+1#Island_(1989_film)	Island	MovieFilm	1	1	-15.986448229970314	1585	3	
+2#Island_(Float_Away)	Island	MusicSingle	1	1	-15.47512622314472	1585	3	
+2#Island_(Kenny_Wheeler_album)	Island	MusicAlbum	1	1	-15.067580157981654	1585	3	
+6#Island_(Laymon_novel)	Island	Book	1	2	-14.880311980500798	1585	3	
+6#Island_(novel)	Island	Book	13	575	-14.8803119805008	1585	2	
+6#Island_(Rogers_novel)	Island	Book	1	2	-14.880311980500798	1585	3	
+2#Island_(song)	Island	MusicSingle	1	25	-15.475974634457835	1585	3	
+1#Jacob_(film)	Jacob	MovieFilm	4	28	-15.818147962809084	772	3	
+1#Jamboree_(1957_film)	Jamboree	MovieFilm	1	20	-15.252940456902403	622	3	
+2#Jamboree_(Beat_Happening_album)	Jamboree	MusicAlbum	2	4	-15.599442137569664	622	3	
+2#Jamboree_(Fast_Life_Yungstaz_album)	Jamboree	MusicAlbum	1	3	-15.149004140516544	622	3	
+2#Jamboree_(Guadalcanal_Diary_album)	Jamboree	MusicAlbum	1	1	-15.353511685951519	622	3	
+1#Jambu	Jambu	MovieDirector	2	32	-15.308848052514891	212	3	
+1#Jambu_(director)	Jambu	MovieDirector	1	1	-16.00808489962766	212	3	
+2#Japan_(album)	Japan	MusicAlbum	1	11	-15.591270175662121	12582	3	
+2#Japan_(band)	Japan	MusicArtist	31	234	-12.720846171448768	12582	3	
+1#Japan_(film)	Japan	MovieFilm	4	44	-15.602454331970637	12582	3	
+2#Jay_Park	Jay Park	MusicArtist	36	366	-13.130848862038322	363	1	
+2#Jeanette_(singer)	Jeanette	MusicArtist	27	323	-14.880311980500798	186	1	
+2#Jeanne_d%27Arc_(album)	Jeanne d'Arc	MusicAlbum	1	3	-15.44589778359031	313	3	
+2#Jelonek_(album)	Jelonek	MusicAlbum	1	6	-14.880311980500798	8	3	
+3#Jeremiah	Jeremiah	Person	437	2847	-14.494204393724548	632	1	
+5#Jeremiah_(TV_series)	Jeremiah	TvShow	44	835	-15.44213737008981	632	2	
+3#John_Charles_Watts-Russell	John Charles Watts-Russell	Person	1	1	-14.880311980500798	1	1	
+2#Johnson_(composer)	Johnson	MusicArtist	2	25	-14.494204393724548	1046	3	
+3#Jos%c3%a9_Batlle_y_Ord%c3%b3%c3%b1ez	José Batlle y Ordóñez	Person	1	23	-13.999139189835109	1	3	
+5#Judas_(film)	Judas	TvShow	1	8	-15.412946336303987	347	3	
+2#Judas_(song)	Judas	MusicSingle	8	419	-15.504472976977457	347	3	
+1#Jung	Jung	MovieFilm	2	126	-15.939884760743574	417	3	
+1#Jung_(1996_film)	Jung	MovieFilm	6	29	-15.521409282244289	417	3	
+6#K._(novel)	K.	Book	1	1	-14.880311980500798	36743	3	
+2#Ka_(rapper)	Ka	MusicArtist	1	1	-14.880311980500798	3912	2	
+1#Kagbeni_(film)	Kagbeni	MovieFilm	1	7	-14.880311980500798	3	2	
+2#Kalapana_(album)	Kalapana	MusicAlbum	1	10	-14.880311980500798	84	3	
+2#Kalapana_(band)	Kalapana	MusicArtist	48	190	-14.880311980500798	84	2	
+2#Kam_(rapper)	Kam	MusicArtist	14	326	-14.20293661938181	252	1	
+1#Kanaka_(actress)	Kanaka	MovieActor	201	644	-14.351651282134997	59	2	
+1#Kansas_City_(film)	Kansas City	MovieFilm	1	74	-15.83838522718281	2739	3	
+2#Kansas_City_(Leiber_and_Stoller_song)	Kansas City	MusicTrack	7	296	-14.712120886621896	2739	3	
+2#Kansas_City_(Sneaky_Sound_System_song)	Kansas City	MusicSingle	1	28	-15.500111410129916	2739	3	
+2#Kaoma	Kaoma	MusicArtist	12	66	-13.999139189835109	206	1	
+2#Kaskade	Kaskade	MusicArtist	168	811	-13.450285308535223	504	1	
+1#Katia_(film)	Katia	MovieFilm	1	1	-16.15514785600009	153	3	
+2#Katra_(band)	Katra	MusicArtist	6	44	-14.880311980500798	39	3	
+2#Kaya_(album)	Kaya	MusicAlbum	11	71	-15.54821142250269	895	3	
+1#Kaya_(film)	Kaya	MovieFilm	1	1	-16.24884287181904	895	3	
+2#Kaya_(Japanese_musician)	Kaya	MusicArtist	3	10	-13.711120843715666	895	3	
+2#Kelly_(album)	Kelly	MusicAlbum	1	44	-15.353511685951519	2768	3	
+2#Kelly_(singer)	Kelly	MusicArtist	1	2	-14.880311980500798	2768	3	
+5#Kelly_(TV_series)	Kelly	TvShow	1	1	-14.880311980500798	2768	3	
+2#Kennedy_(musician)	Kennedy	MusicArtist	4	23	-15.459821152195277	1594	3	
+5#Kennedy_(TV_miniseries)	Kennedy	TvShow	5	80	-15.423222489972586	1594	3	
+5#Kennedy_(TV_series)	Kennedy	TvShow	1	3	-16.288789732291914	1594	3	
+2#Kepler_(band)	Kepler	MusicGroup	1	2	-15.029554528250571	335	3	
+2#Keystone_(album)	Keystone	MusicAlbum	1	1	-15.515773741414463	2079	3	
+1#Khela	Khela	MovieFilm	1	17	-15.61767011216033	15	2	
+1#Khudai	Khudai	MovieFilm	1	3	-15.746071155993505	1	1	
+2#King_George_Street_(song)	King George Street	MusicSingle	1	1	-15.584219008104768	1	3	
+2#Kite_(Kate_Bush_song)	Kite	MusicTrack	1	1	-15.5664682307016	701	3	
+2#Kite_(song)	Kite	MusicTrack	5	28	-15.541542188441131	701	3	
+2#Kite_(Stefanie_Sun_album)	Kite	MusicAlbum	1	1	-15.44589778359031	701	3	
+2#Kobong	Kobong	MusicArtist	1	2	-14.494204393724548	4	1	
+1#Koma_(film)	Koma	MovieFilm	2	14	-16.166214112869735	279	3	
+3#Korak_(character)	Korak	Character	2	30	-14.488886669342032	18	3	
+1#Kouka_(actor)	Kouka	MovieActor	1	1	-15.747365435228867	10	3	
+2#Kumki_(film)	Kumki	MusicAlbum	26	222	-15.39769661321359	77	1	
+1#La_France_(film)	La France	MovieFilm	2	11	-15.27587945237543	72	2	
+3#La_La_(entertainer)	La La	Person	979	5255	-14.880311980500798	269	3	
+2#La_La_(song)	La La	MusicSingle	5	338	-15.512222564909269	269	3	
+1#La_Luna_(1979_film)	La Luna	MovieFilm	8	57	-15.64122094919103	331	2	
+1#La_Luna_(2011_film)	La Luna	MovieFilm	4	195	-14.880311980500798	331	2	
+2#La_Luna_(album)	La Luna	MusicAlbum	2	42	-15.591208582430328	331	3	
+2#La_Luna_(song)	La Luna	MusicSingle	2	18	-15.637559059332501	331	3	
+2#La_Madrague_(song)	La Madrague	MusicSingle	1	9	-14.880311980500798	7	3	
+2#Laid	Laid	MusicAlbum	4	383	-15.528363377908333	366	3	
+2#Laid_(song)	Laid	MusicSingle	8	97	-15.528363377908333	366	3	
+5#Laid_(TV_series)	Laid	TvShow	2	8	-15.747530753520657	366	3	
+2#Land%27s_End_(album)	Land's End	MusicAlbum	1	1	-15.45582322595274	3020	3	
+1#Large_(2001_film)	Large	MovieFilm	1	1	-16.37001872146961	1382	3	
+6#Le_R%c3%aave_(novel)	Le Rêve	Book	2	15	-14.8803119805008	13	3	
+1#Leila_(film)	Leila	MovieFilm	1	14	-14.92823340486331	304	3	
+2#Leila_(song)	Leila	MusicSingle	1	13	-15.518077154379137	304	3	
+2#Leviathan_(1989_film)	Leviathan	MusicAlbum	12	73	-15.475974634457835	1159	2	
+1#Leviathan_(2012_film)	Leviathan	MovieFilm	1	7	-14.880311980500798	1159	2	
+2#Leviathan_(album)	Leviathan	MusicAlbum	3	26	-15.538848252144751	1159	3	
+6#Leviathan_(Auster_novel)	Leviathan	Book	1	1	-14.887480399052084	1159	3	
+2#Leviathan_(band)	Leviathan	MusicArtist	8	27	-13.22376406938972	1159	3	
+6#Leviathan_(book)	Leviathan	Book	136	1864	-14.880311980500798	1159	2	
+2#Leviathan_(song)	Leviathan	MusicTrack	1	1	-15.532410146367118	1159	3	
+6#Leviathan_(Westerfeld_novel)	Leviathan	Book	10	89	-14.880311980500798	1159	2	
+1#Liberty_Heights	Liberty Heights	MovieFilm	6	53	-15.607582294536817	38	1	
+1#Library_of_Congress_(film)	Library of Congress	MovieFilm	1	9	-15.984675167254444	4557	3	
+1#Life_(1928_film)	Life	MovieFilm	1	1	-16.238243612327217	4206	3	
+1#Life_(1996_film)	Life	MovieFilm	1	1	-16.417043364608077	4206	2	
+2#Life_(Ana_Johnsson_song)	Life	MusicSingle	1	1	-15.432165616061994	4206	3	
+2#Life_(Angela_Aki_album)	Life	MusicAlbum	1	1	-15.598602036392162	4206	3	
+6#Life_(book)	Life	Book	3	166	-14.494204393724548	4206	3	
+2#Life_(Cuesh%c3%a9_album)	Life	MusicAlbum	1	1	-15.257425761272122	4206	3	
+2#Life_(Des%27ree_song)	Life	MusicSingle	1	12	-15.411914592120075	4206	3	
+2#Life_(Dope_album)	Life	MusicAlbum	1	26	-15.62885223589315	4206	3	
+2#Life_(Elvis_Presley_song)	Life	MusicSingle	1	11	-15.660502817695436	4206	3	
+2#Life_(EP)	Life	MusicAlbum	1	5	-15.477151377522208	4206	3	
+1#Life_(film)	Life	MovieFilm	67	736	-15.582371942560549	4206	3	
+2#Life_(Frukwan_album)	Life	MusicAlbum	1	4	-15.449218819824184	4206	3	
+2#Life_(Haddaway_song)	Life	MusicSingle	1	4	-15.423114493716962	4206	3	
+2#Life_(Inspiral_Carpets_album)	Life	MusicAlbum	1	2	-15.45582322595274	4206	3	
+2#Life_(Is_So_Strange)	Life	MusicAlbum	1	1	-15.475974634457835	4206	3	
+2#Life_(K-Ci_&_JoJo_song)	Life	MusicSingle	1	2	-15.488106987892952	4206	3	
+2#Life_(KRS-One_album)	Life	MusicAlbum	1	10	-15.648127388236944	4206	3	
+2#Life_(Me_no_Mae_no_Mukou_e)	Life	MusicSingle	1	1	-15.502823697539865	4206	3	
+2#Life_(Mika_Nakashima_song)	Life	MusicSingle	1	1	-16.153545577514322	4206	3	
+5#Life_(NBC_TV_series)	Life	TvShow	131	908	-15.507222694927563	4206	2	
+2#Life_(Neil_Young_&_Crazy_Horse_album)	Life	MusicAlbum	1	9	-15.086202099549459	4206	3	
+2#Life_(Our_Lady_Peace_song)	Life	MusicSingle	1	4	-15.514580027004465	4206	3	
+2#Life_(rapper)	Life	MusicArtist	1	8	-14.880311980500798	4206	3	
+2#Life_(Ricky_Martin_album)	Life	MusicAlbum	1	7	-15.627308982905395	4206	3	
+2#Life_(Sage_Francis_album)	Life	MusicAlbum	1	17	-15.488033852127817	4206	3	
+2#Life_(Simply_Red_album)	Life	MusicAlbum	1	6	-15.542077785457408	4206	3	
+2#Life_(Sly_and_the_Family_Stone_album)	Life	MusicAlbum	1	50	-15.609869643268453	4206	3	
+2#Life_(Talisman_album)	Life	MusicAlbum	2	2	-15.660549685100493	4206	3	
+2#Life_(The_Cardigans_album)	Life	MusicAlbum	3	10	-15.494772069717152	4206	3	
+2#Life_(Thin_Lizzy_album)	Life	MusicAlbum	3	16	-15.664192116539233	4206	3	
+2#Life_(To%c5%a1e_Proeski_song)	Life	MusicSingle	1	3	-15.39769661321359	4206	3	
+2#Life_(Yo_Gotti_album)	Life	MusicAlbum	1	6	-15.353511685951519	4206	3	
+2#Life_(Yui_song)	Life	MusicSingle	1	1	-15.48826332338235	4206	3	
+2#Life_(Z-Ro_album)	Life	MusicAlbum	1	5	-15.551706929829946	4206	3	
+2#Life_(ZOEgirl_album)	Life	MusicAlbum	1	3	-15.444034395745517	4206	3	
+2#Light_(Jeff_Deyo_album)	Light	MusicAlbum	1	3	-15.353511685951519	1796	3	
+2#Light_(KMFDM_song)	Light	MusicSingle	1	1	-15.598181019499648	1796	3	
+2#Light_(Matisyahu_album)	Light	MusicAlbum	2	42	-15.45582322595274	1796	3	
+2#Light_(Music_for_Pleasure_song)	Light	MusicSingle	1	1	-15.432165616061994	1796	3	
+6#Light_(novel)	Light	Book	2	41	-14.880311980500798	1796	3	
+5#Linda_Park	Linda Park	TvActor	82	539	-14.237318310327044	491	1	
+3#Linda_Park_(comics)	Linda Park	Character	6	504	-15.366928127509498	491	3	
+2#Little_Rock_(Collin_Raye_song)	Little Rock	MusicSingle	1	30	-15.542731534671772	383	3	
+2#Little_Rock_(Reba_McEntire_song)	Little Rock	MusicSingle	1	33	-15.611799865252271	383	3	
+5#Live-In	Live-In	TvShow	2	154	-15.819859080567424	91	3	
+2#Loch_Lomond_(band)	Loch Lomond	MusicGroup	2	11	-14.878662300680974	376	2	
+5#Longstreet_(TV_series)	Longstreet	TvShow	18	211	-15.958308514832167	91	2	
+3#Lorelei_(Asgardian)	Lorelei	Character	3	294	-14.918510897924858	299	3	
+1#Lotte_(film)	Lotte	MovieFilm	1	1	-15.913877156010505	265	3	
+1#Luke_Wilson	Luke Wilson	MovieActor	292	1176	-12.578874972779543	646	1	
+1#Luther_(1973_film)	Luther	MovieFilm	1	5	-15.404733915666268	1398	3	
+1#Luther_(2003_film)	Luther	MovieFilm	15	158	-15.561547521008018	1398	3	
+5#Luther_(TV_series)	Luther	TvShow	1219	4240	-15.094271916925022	1398	1	
+2#Lux_(album)	Lux	MusicAlbum	2	32	-15.689932226894129	741	3	
+1#Maasi_(film)	Maasi	MovieFilm	1	9	-16.304513141709922	7	2	
+1#Madeleine_(1950_film)	Madeleine	MovieFilm	1	4	-15.83006769426919	567	3	
+2#Magma_(album)	Magma	MusicAlbum	2	6	-15.499807495410717	271	3	
+2#Magma_(band)	Magma	MusicArtist	10	30	-11.998919016902262	271	3	
+1#Mala_(1941_film)	Mala	MovieFilm	1	1	-16.50459804177648	392	3	
+2#Mala_(album)	Mala	MusicAlbum	1	2	-15.491663274543289	392	3	
+2#Mala_(Devendra_Banhart_album)	Mala	MusicAlbum	4	21	-15.53211439118423	392	3	
+1#Mala_(film)	Mala	MovieFilm	1	8	-14.880311980500798	392	3	
+2#Mala_(Pakistani_singer)	Mala	MusicArtist	1	30	-14.891784381548515	392	3	
+2#Mala_(song)	Mala	MusicSingle	1	7	-15.491663274543289	392	3	
+2#Mammal_(album)	Mammal	MusicAlbum	1	3	-15.149004140516544	238	3	
+2#Mammal_(band)	Mammal	MusicArtist	1	223	-13.918830974958473	238	3	
+2#Mammal_(EP)	Mammal	MusicAlbum	1	1	-15.436353422438568	238	3	
+2#Manassas_(album)	Manassas	MusicAlbum	34	94	-15.661760865676717	226	2	
+2#Manassas_(band)	Manassas	MusicArtist	28	348	-13.406181284340642	226	2	
+1#Mania_(film)	Mania	MovieFilm	1	8	-14.880311980500798	780	3	
+2#Mania_(Menudo_album)	Mania	MusicAlbum	1	1	-15.496540488195805	780	3	
+2#Mania_(New_Found_Glory)	Mania	MusicAlbum	1	1	-15.535975465849482	780	3	
+2#Mania_(The_Lucy_Show_album)	Mania	MusicAlbum	1	1	-15.257425761272122	780	3	
+1#Mann_(film)	Mann	MovieFilm	11	133	-15.626729954103272	379	2	
+2#Mann_(rapper)	Mann	MusicArtist	15	450	-14.880311980500798	379	1	
+2#Mar_Azul	Mar Azul	MusicAlbum	1	41	-15.44589778359031	38	2	
+2#Marble_(album)	Marble	MusicAlbum	1	1	-15.515793741033017	1069	3	
+1#Marie_France	Marie France	MovieActor	1	18	-15.344925180075686	29	2	
+1#Marigold_(1938_film)	Marigold	MovieFilm	1	1	-15.89090043354409	405	3	
+2#Marigold_(2007_film)	Marigold	MusicAlbum	1	30	-15.432165616061994	405	2	
+2#Marigold_(song)	Marigold	MusicTrack	4	14	-15.039928189378198	405	3	
+1#Masti_(2004_film)	Masti	MovieFilm	3	137	-16.387119770154214	122	1	
+2#Matariki_(film)	Matariki	MusicAlbum	1	6	-15.701604597360998	8	3	
+6#Matecumbe_(novel)	Matecumbe	Book	1	5	-14.880311980500798	16	2	
+2#Maximo_Park	Maximo Park	MusicArtist	1	1	-15.416712667990026	56	1	
+2#Meister	Meister	MusicArtist	42	325	-15.504328407529142	197	3	
+2#Mekong_Delta_(band)	Mekong Delta	MusicGroup	1	8	-13.607344016915546	72	2	
+6#Merrick_(novel)	Merrick	Book	6	29	-14.880311980500798	3255	3	
+1#Michurin_(film)	Michurin	MovieFilm	1	1	-15.790516885296684	5	2	
+6#Middlemarch	Middlemarch	Book	106	417	-14.8803119805008	108	1	
+1#Middlemarch_(1994_TV_serial)	Middlemarch	MovieFilm	13	33	-16.145165568208085	108	2	
+2#Migi	Migi	MusicArtist	1	1	-15.31638921207286	14	3	
+2#Mika_(singer)	Mika	MusicArtist	296	1425	-12.681851486561394	1263	1	
+1#Milan_(1967_film)	Milan	MovieFilm	4	34	-15.94503286831672	1129	3	
+1#Milan_(1995_film)	Milan	MovieFilm	1	2	-16.125823357079366	1129	3	
+1#Milan_(2004_film)	Milan	MovieFilm	7	38	-15.983087442658231	1129	3	
+2#Millican_(album)	Millican	MusicAlbum	1	1	-15.432165616061994	8	3	
+5#Ming_Dynasty_(TV_series)	Ming Dynasty	TvShow	2	13	-15.81789747368399	252	3	
+1#Monday_(film)	Monday	MovieFilm	1	1	-16.482487409814805	1100	3	
+1#Morgenrot_(film)	Morgenrot	MovieFilm	1	11	-15.184689173199807	99	2	
+2#Moss_(album)	Moss	MusicAlbum	1	1	-15.65824290270191	595	3	
+2#Moss_(band)	Moss	MusicArtist	6	14	-14.494204393724548	595	3	
+2#Muse_(band)	Muse	MusicArtist	730	4799	-11.707920649824166	3271	1	
+2#Muse_(EP)	Muse	MusicAlbum	1	1	-15.54574502096778	3271	3	
+2#Muse_(Grace_Jones_album)	Muse	MusicAlbum	1	11	-15.601305853198795	3271	3	
+2#Muse_(Jolin_Tsai_album)	Muse	MusicAlbum	1	1	-15.451230008053578	3271	3	
+2#Muse_(Valery_Leontiev_album)	Muse	MusicAlbum	1	1	-15.149004140516544	3271	3	
+2#Mykonos_(song)	Mykonos	MusicSingle	2	21	-15.555054399436683	832	3	
+1#Mystic_River_(film)	Mystic River	MovieFilm	816	1984	-15.619072110094043	1012	1	
+6#Mystic_River_(novel)	Mystic River	Book	18	104	-14.880311980500798	1012	2	
+2#N17_(band)	N17	MusicArtist	1	2	-14.494204393724548	7	3	
+2#Nalle	Nalle	MusicArtist	1	4	-14.494204393724548	15	2	
+5#Nalong	Nalong	TvShow	1	4	-15.149004140516544	5	2	
+1#Nameless_(film)	Nameless	MovieFilm	1	3	-16.17011743120634	46	3	
+3#Namor	Namor	Character	132	626	-14.880311980500798	55	3	
+1#Nani_(actor)	Nani	MovieActor	20	465	-13.994405422559412	390	2	
+2#Nantucket_(album)	Nantucket	MusicAlbum	1	12	-15.411914592120075	2684	3	
+2#Nantucket_(band)	Nantucket	MusicArtist	15	126	-13.421999180185983	2684	3	
+2#Nard_(album)	Nard	MusicAlbum	1	1	-14.880311980500798	111	3	
+2#Nassau_(album)	Nassau	MusicAlbum	1	1	-15.473952367865795	528	3	
+1#Ned_(film)	Ned	MovieFilm	1	11	-15.870607743855507	305	3	
+2#Need_(album)	Need	MusicAlbum	1	3	-15.39769661321359	483	3	
+6#Need_(novel_series)	Need	Book	3	54	-14.880311980500798	483	3	
+2#Nega_(album)	Nega	MusicAlbum	1	1	-15.149004140516544	45	3	
+1#Nenu	Nenu	MovieFilm	1	6	-16.054466484648227	3	2	
+2#Never_(Heart_song)	Never	MusicSingle	5	95	-15.585407199639976	1146	3	
+2#Never_(Jaheim_song)	Never	MusicSingle	1	2	-15.432165616061994	1146	3	
+2#Never_(Kristine_W_song)	Never	MusicSingle	1	1	-15.551991742451193	1146	3	
+2#New_Man_(song)	New Man	MusicSingle	1	1	-15.149004140516544	25	3	
+2#Nihil	Nihil	MusicAlbum	4	64	-15.598181019499648	47	2	
+2#Nihil_(Impaled_Nazarene_album)	Nihil	MusicAlbum	1	1	-15.571763586033272	47	3	
+1#Nimmo_(1984_film)	Nimmo	MovieFilm	1	1	-15.835134025226132	18	3	
+1#Nirala	Nirala	MovieActor	3	23	-14.363841011322004	12	1	
+2#Nitro_(band)	Nitro	MusicArtist	18	88	-13.649104897672922	979	3	
+1#Nitro_(film)	Nitro	MovieFilm	1	11	-15.53201490129926	979	3	
+1#No_(2012_film)	No	MovieFilm	54	258	-15.944628853137301	4106	2	
+2#No_(album)	No	MusicAlbum	1	6	-15.591540059021929	4106	3	
+6#Nordy_Bank_(novel)	Nordy Bank	Book	1	1	-14.880311980500798	1	2	
+5#North_Square	North Square	TvShow	3	9	-15.126708113520305	3	2	
+2#Ob(Servant)	Ob	MusicAlbum	1	1	-15.494280464043115	630	3	
+1#Old_School_(film)	Old School	MovieFilm	175	1844	-15.871265930381055	987	1	
+2#Old_School_(Hedley_song)	Old School	MusicSingle	1	1	-15.45582322595274	987	3	
+2#Old_School_(John_Conlee_song)	Old School	MusicSingle	1	19	-15.516211463194548	987	3	
+1#Opera_House_(1961_film)	Opera House	MovieFilm	1	3	-15.71681003768409	132	3	
+2#Opio	Opio	MusicArtist	6	54	-15.512088689726388	34	1	
+2#Orangefield_(song)	Orangefield	MusicSingle	1	4	-15.608696353991686	2	3	
+2#Orca_(C-Bo_album)	Orca	MusicAlbum	1	1	-15.559717524616573	1000	3	
+1#Orca_(film)	Orca	MovieFilm	62	429	-15.513376540411858	1000	2	
+6#Orca_(novel)	Orca	Book	1	2	-14.820719883298462	1000	3	
+2#Orca_(Serj_Tankian_album)	Orca	MusicAlbum	3	24	-15.540640397980699	1000	3	
+2#Orcas_(album)	Orcas	MusicAlbum	1	2	-14.880311980500798	206	2	
+1#Pakal_(film)	Pakal	MovieFilm	1	1	-16.68449200822775	17	3	
+2#Palm_Springs_(band)	Palm Springs	MusicArtist	1	6	-13.669498206180432	2745	3	
+1#Palm_Springs_(film)	Palm Springs	MovieFilm	1	26	-15.755380246224723	2745	3	
+3#Pandu	Pandu	Person	5	36	-14.667638032368366	17	3	
+2#Panorama_(Braintax_album)	Panorama	MusicAlbum	1	1	-15.31638921207286	935	3	
+2#Panorama_(song)	Panorama	MusicSingle	1	16	-15.832539424545862	935	3	
+2#Panorama_(The_Cars_album)	Panorama	MusicAlbum	5	10	-15.549788329138806	935	3	
+5#Panorama_(TVP2)	Panorama	TvShow	1	11	-14.880311980500798	935	3	
+5#Parkinson_(TV_series)	Parkinson	TvShow	6	90	-16.237193933878782	503	3	
+1#Patagonia_(film)	Patagonia	MovieFilm	1	36	-15.764319879345457	7103	3	
+3#Pete_(Disney)	Pete	Character	6	739	-14.494204393724548	276	3	
+1#Pharmakon_(film)	Pharmakon	MovieFilm	1	1	-14.880311980500798	34	3	
+2#Pine_Tree_(album)	Pine Tree	MusicAlbum	1	1	-15.560990036868144	283	3	
+2#Plains_(album)	Plains	MusicAlbum	1	4	-15.557788013591653	158	3	
+2#Poi_(film)	Poi	MusicAlbum	1	6	-15.503490848799618	844	3	
+2#Ponga_(album)	Ponga	MusicAlbum	1	1	-15.68986567064277	14	3	
+2#Ponga_(band)	Ponga	MusicArtist	1	2	-14.231010474899728	14	2	
+1#Porfirio_(film)	Porfirio	MovieFilm	1	1	-14.880311980500798	9	2	
+1#Possessed_(1931_film)	Possessed	MovieFilm	1	9	-16.045681143510766	351	2	
+1#Possessed_(1947_film)	Possessed	MovieFilm	5	26	-15.684202726273627	351	2	
+5#Possessed_(2000_film)	Possessed	TvShow	5	16	-15.455255244503023	351	3	
+1#Possessed_(2006_film)	Possessed	MovieFilm	1	4	-15.68953935920882	351	3	
+2#Possessed_(band)	Possessed	MusicArtist	20	526	-13.421999180185983	351	2	
+2#Possessed_(Gojira_album)	Possessed	MusicAlbum	1	1	-15.411914592120075	351	3	
+6#Possessed_(novel)	Possessed	Book	1	1	-14.880311980500798	351	3	
+2#Possessed_(Venom_album)	Possessed	MusicAlbum	1	12	-15.523263492721691	351	3	
+2#President_(song)	President	MusicSingle	1	16	-15.529826920930656	5946	3	
+5#President_(TV_series)	President	TvShow	1	23	-16.28607545147495	5946	3	
+2#Privateer_(album)	Privateer	MusicAlbum	2	6	-15.149004140516544	114	3	
+6#Propeller_Island	Propeller Island	Book	1	7	-14.86923554738364	1	2	
+2#Protection_(album)	Protection	MusicAlbum	5	1163	-15.501820432618098	1767	3	
+2#Protection_(Donna_Summer_song)	Protection	MusicSingle	1	12	-15.61326202542428	1767	3	
+1#Protection_(film)	Protection	MovieFilm	1	2	-16.189639495335836	1767	3	
+2#Protection_(Massive_Attack_song)	Protection	MusicSingle	1	8	-15.501820432618098	1767	3	
+2#Pyro_(song)	Pyro	MusicSingle	2	19	-15.492924453916546	217	3	
+2#Quasar_(band)	Quasar	MusicArtist	2	21	-14.494204393724548	414	3	
+1#Rajani	Rajani	MovieActor	4	61	-14.604389610729305	17	2	
+5#Rajani_(TV_series)	Rajani	TvShow	1	2	-14.880311980500798	17	2	
+1#Rambha	Rambha	MovieActor	1	21	-15.897332340793614	54	3	
+1#Rambha_(actress)	Rambha	MovieActor	25	223	-12.424242955040938	54	1	
+2#Rasa_(band)	Rasa	MusicGroup	1	6	-14.494204393724548	127	2	
+1#Rasi	Rasi	MovieActor	1	1	-14.91887178451724	45	3	
+2#Real_Deal	Real Deal	MusicArtist	1	54	-15.353511685951519	271	3	
+2#Real_Deal_(album)	Real Deal	MusicAlbum	1	1	-15.091007633662958	271	3	
+2#Reality/Dancin%27_in_Hip-Hop	Reality	MusicSingle	1	1	-15.557303659299944	1764	3	
+2#Reality_(David_Bowie_album)	Reality	MusicAlbum	1	25	-15.579708211044174	1764	3	
+2#Reality_(Dream_album)	Reality	MusicAlbum	4	18	-15.353511685951519	1764	3	
+2#Reality_(Dream_song)	Reality	MusicSingle	1	1	-15.475974634457835	1764	3	
+1#Reality_(film)	Reality	MovieFilm	2	38	-15.995540504495686	1764	3	
+2#Reality_(G.G.F.H._EP)	Reality	MusicSingle	1	4	-15.149004140516544	1764	3	
+2#Reality_(James_Brown_song)	Reality	MusicSingle	1	1	-15.624643037583036	1764	3	
+2#Reality_(Kenny_Chesney_song)	Reality	MusicSingle	1	10	-15.524043657417876	1764	3	
+2#Reality_(Monk_Montgomery_album)	Reality	MusicAlbum	1	2	-15.460995101293406	1764	3	
+2#Reality_(Richard_Sanderson_song)	Reality	MusicSingle	5	31	-14.880311980500798	1764	3	
+2#Reality_(Smooth_album)	Reality	MusicAlbum	1	4	-15.39769661321359	1764	3	
+2#Red_Cross_(album)	Red Cross	MusicAlbum	1	4	-15.52495426588138	5855	3	
+1#Red_Jacket_(film)	Red Jacket	MovieFilm	1	5	-14.880311980500798	582	3	
+2#Red_Rice_(DJ)	Red Rice	MusicArtist	1	1	-15.353511685951519	180	3	
+2#Red_Rose_(album)	Red Rose	MusicAlbum	1	1	-15.51490112403187	408	3	
+1#Red_Rose_(film)	Red Rose	MovieFilm	2	29	-16.115650770579016	408	3	
+2#Red_Rose_(song)	Red Rose	MusicSingle	1	6	-15.569285022837947	408	3	
+2#Red_Star_(EP)	Red Star	MusicAlbum	1	2	-15.551587200318963	206	3	
+2#Redman_(rapper)	Redman	MusicArtist	200	1149	-12.657602285727108	604	1	
+2#Redondo_Beach_(song)	Redondo Beach	MusicSingle	1	22	-15.050398120428046	1114	3	
+2#Redwood_(album)	Redwood	MusicAlbum	1	1	-15.531085940269188	638	3	
+1#Reno	Reno	MovieActor	14	318	-15.509073983411563	1926	3	
+1#Reno_(1923_film)	Reno	MovieFilm	1	1	-16.161959267856897	1926	3	
+2#Reno_(Dottie_West_song)	Reno	MusicSingle	1	2	-15.581232045237842	1926	3	
+1#Reno_(film)	Reno	MovieFilm	3	13	-15.829215988895607	1926	3	
+2#Reno_(song)	Reno	MusicSingle	2	16	-15.516096286575976	1926	3	
+2#Rest_(album)	Rest	MusicAlbum	1	1	-15.31638921207286	534	3	
+2#Reveille_(album)	Reveille	MusicAlbum	1	1	-15.459821152195277	223	3	
+2#Reveille_(band)	Reveille	MusicArtist	7	40	-14.216343437410384	223	3	
+1#Reveille_(film)	Reveille	MovieFilm	1	1	-16.053412267736313	223	3	
+1#Rice_(film)	Rice	MovieFilm	1	1	-15.150677257463892	1716	3	
+2#Rides_(album)	Rides	MusicAlbum	1	1	-15.379048402619501	245	3	
+5#Rides_(American_TV_series)	Rides	TvShow	3	20	-15.083191613726267	245	3	
+5#Rides_(TV_series)	Rides	TvShow	1	4	-15.312176368737381	245	3	
+1#Rio_Grande_(film)	Rio Grande	MovieFilm	27	147	-16.579904513370185	1530	2	
+2#Rio_Grande_(song)	Rio Grande	MusicTrack	1	35	-15.588352756741532	1530	3	
+1#Rob_Roy_(1922_film)	Rob Roy	MovieFilm	1	2	-15.47610179751739	314	3	
+1#Rob_Roy_(film)	Rob Roy	MovieFilm	60	443	-15.712420143758324	314	2	
+5#Rock_Camp_(series)	Rock Camp	TvShow	1	2	-14.880311980500798	29	3	
+2#Rock_City_(Riot_album)	Rock City	MusicAlbum	1	4	-15.498623548000884	716	3	
+2#Rock_City_(Royce_da_5%279%22_album)	Rock City	MusicAlbum	1	8	-15.51840865956545	716	3	
+1#Rohini_(actress)	Rohini	MovieActor	5	25	-13.172272677378311	101	2	
+2#Roller_Coaster_(Red_Bacteria_Vacuum_album)	Roller Coaster	MusicAlbum	1	1	-15.31638921207286	1383	3	
+2#Roller_Coaster_(Scott_Cain_album)	Roller Coaster	MusicAlbum	1	1	-15.31638921207286	1383	3	
+2#Romany_(album)	Romany	MusicAlbum	1	17	-15.599751330936877	55	3	
+1#Rosalie_(film)	Rosalie	MovieFilm	2	13	-15.836752772930435	229	2	
+5#Rose_Hill_(actress)	Rose Hill	TvActor	1	6	-14.535299043848045	76	3	
+1#Rose_Hill_(film)	Rose Hill	MovieFilm	2	16	-16.43794814021889	76	2	
+1#Ross_Hill_(actor)	Ross Hill	MovieActor	1	1	-15.567352582482398	7	3	
+2#Ruth_(band)	Ruth	MusicArtist	1	7	-14.216343437410384	484	3	
+6#Ruth_(novel)	Ruth	Book	1	10	-14.880311980500798	484	3	
+6#Sab_(novel)	Sab	Book	1	1	-14.880311980500798	366	3	
+2#Sahra	Sahra	MusicAlbum	1	63	-15.629218308829213	56	3	
+2#Salem_(Israel_band)	Salem	MusicArtist	3	27	-14.494204393724548	562	3	
+2#Salem_(Michigan_band)	Salem	MusicArtist	9	118	-14.216343437410384	562	2	
+2#Salem_(US_band)	Salem	MusicArtist	1	1	-14.880311980500798	562	3	
+1#Salute_(1929_film)	Salute	MovieFilm	1	1	-15.755053605455819	469	3	
+1#Salute_(2008_film)	Salute	MovieFilm	1	3	-14.880311980500798	469	3	
+2#Salute_(21_Guns_album)	Salute	MusicAlbum	1	2	-14.880311980500798	469	3	
+2#Salute_(Gordon_Lightfoot_album)	Salute	MusicAlbum	1	3	-15.554002225572296	469	3	
+5#San_Francisco_International_Airport_(TV_series)	San Francisco International Airport	TvShow	2	21	-15.96628976142473	1057	2	
+3#Sanay	Sanay	Person	1	16	-15.257425761272122	17	3	
+2#Santa_Claus_Lane	Santa Claus Lane	MusicAlbum	2	23	-15.576072028953915	6	2	
+1#Sappho_(film)	Sappho	MovieFilm	2	197	-15.777273352108748	191	3	
+1#Saran_(director)	Saran	MovieDirector	1	6	-13.710181131409545	310	3	
+1#Secretary_(film)	Secretary	MovieFilm	115	2764	-16.19511223081689	1923	2	
+2#Seneca_(band)	Seneca	MusicArtist	1	2	-14.880311980500798	709	3	
+1#Seniors_(film)	Seniors	MovieFilm	1	18	-14.880311980500798	524	3	
+6#Sent_(novel)	Sent	Book	1	847	-14.959559612077998	852	2	
+2#Shadowbox	Shadowbox	MusicAlbum	1	1	-15.469212277857984	118	3	
+2#Shamal_(album)	Shamal	MusicAlbum	2	4	-15.518535802529371	20	2	
+1#Shank_(2010_film)	Shank	MovieFilm	3	34	-15.207574234089428	268	3	
+2#Shater_(album)	Shater	MusicAlbum	1	1	-15.45582322595274	15	3	
+2#Sherry_(song)	Sherry	MusicSingle	29	161	-15.68758066985061	628	3	
+2#Shin_(singer)	Shin	MusicArtist	2	89	-14.494204393724548	414	3	
+2#Shopping_(Fann_Wong_album)	Shopping	MusicAlbum	1	1	-15.379048402619501	4996	3	
+1#Shopping_(film)	Shopping	MovieFilm	1	7	-16.189126284534836	4996	3	
+2#Show_of_Hands	Show of Hands	MusicArtist	1	21	-12.943793193947187	36	3	
+2#Show_of_Hands_(1987_album)	Show of Hands	MusicAlbum	1	1	-15.54020901140721	36	3	
+1#Show_of_Hands_(film)	Show of Hands	MovieFilm	1	1	-15.550803757159192	36	3	
+1#Shriya	Shriya	MovieActor	1	24	-13.90710339149862	53	1	
+2#Silvia_(song)	Silvia	MusicSingle	1	14	-15.545348182422392	474	3	
+2#Sirocco_(album)	Sirocco	MusicAlbum	1	12	-15.539790256740112	101	3	
+1#Sirocco_(film)	Sirocco	MovieFilm	3	149	-15.839447344472719	101	2	
+1#Sitara_(film)	Sitara	MovieFilm	2	20	-15.778919224744582	25	2	
+1#Sleeper_(1973_film)	Sleeper	MovieFilm	6	239	-15.753026260987022	174	1	
+1#Sleeper_(2005_film)	Sleeper	MovieFilm	1	9	-15.04893469293667	174	3	
+2#Sleeper_(band)	Sleeper	MusicArtist	6	31	-13.058399640468508	174	3	
+2#Sleeper_(Everyday_Sunday_album)	Sleeper	MusicAlbum	1	1	-15.353511685951519	174	3	
+2#Sleeper_(Godstar_album)	Sleeper	MusicAlbum	1	1	-15.479445041185134	174	3	
+2#Sleeper_(Keith_Jarrett_album)	Sleeper	MusicAlbum	1	1	-15.550027746414338	174	3	
+2#Sleeper_(Tribe_album)	Sleeper	MusicAlbum	2	9	-15.379048402619501	174	3	
+2#Soil_(band)	Soil	MusicGroup	127	751	-13.37588633518251	497	2	
+2#Soil_(EP)	Soil	MusicAlbum	1	1	-15.47033638421167	497	3	
+2#Soko_(band)	Soko	MusicArtist	1	3	-14.494204393724548	144	2	
+2#Soko_(singer)	Soko	MusicArtist	33	174	-14.880311980500798	144	1	
+1#Sompa_(film)	Sompa	MovieFilm	1	1	-14.880311980500798	5	3	
+1#Sons_(2006_film)	Sons	MovieFilm	1	2	-14.950912673630953	427	3	
+6#Sons_(novel)	Sons	Book	3	22	-14.880311980500798	427	2	
+2#Soul_(Coleman_Hawkins_album)	Soul	MusicAlbum	1	1	-15.57933365873988	1769	3	
+2#Soul_(Lena_Horne_album)	Soul	MusicAlbum	1	1	-15.525539671630888	1769	3	
+2#Soul_(Seal_album)	Soul	MusicAlbum	3	13	-15.646218784601084	1769	3	
+2#Soul_(The_Kentucky_Headhunters_album)	Soul	MusicAlbum	1	1	-15.600042414418876	1769	3	
+5#Soul_(TV_series)	Soul	TvShow	1	11	-15.77575839674328	1769	3	
+6#Southland_(novel)	Southland	Book	1	1	-14.880311980500798	1126	3	
+5#Southland_(TV_series)	Southland	TvShow	416	2018	-15.253882286413715	1126	1	
+2#Sparks_(band)	Sparks	MusicGroup	102	930	-12.205302244855277	891	2	
+2#Sparks_(Cover_Drive_song)	Sparks	MusicSingle	1	2	-15.353511685951519	891	3	
+2#Sparks_(Fiction_Plane_album)	Sparks	MusicAlbum	1	1	-15.423114493716962	891	3	
+6#Sparks_(novel)	Sparks	Book	1	2	-14.880311980500798	891	3	
+2#Sparks_(R%c3%b6yksopp_song)	Sparks	MusicSingle	1	1	-15.573167886552955	891	3	
+2#Sparks_(Sahara_Hotnights_album)	Sparks	MusicAlbum	1	1	-15.353511685951519	891	3	
+2#Sparks_(Steve_Appleton_song)	Sparks	MusicSingle	1	1	-14.880311980500798	891	3	
+5#Sparks_(TV_series)	Sparks	TvShow	10	40	-15.519807440118889	891	3	
+2#Spearmint_(band)	Spearmint	MusicGroup	3	7	-14.783639314022334	227	2	
+1#Splash_(film)	Splash	MovieFilm	113	2123	-15.724979289563226	1914	2	
+2#Splash_(Freddie_Hubbard_album)	Splash	MusicAlbum	1	1	-15.62183460627565	1914	3	
+5#Splash_(TV_series)	Splash	TvShow	56	540	-15.209771581932461	1914	3	
+2#Splash!_(song)	Splash!	MusicSingle	1	9	-15.514861029163072	1914	3	
+5#Splash!_(TV_series)	Splash!	TvShow	53	2110	-15.23254363976486	1914	3	
+1#Splinter_(2006_film)	Splinter	MovieFilm	1	18	-16.742268144193655	223	3	
+1#Splinter_(2008_film)	Splinter	MovieFilm	18	62	-15.914158056372367	223	2	
+2#Splinter_(band)	Splinter	MusicArtist	1	15	-14.880311980500798	223	3	
+6#Splinter_(novel)	Splinter	Book	1	1	-14.880311980500798	223	3	
+2#Splinter_(Sneaker_Pimps_album)	Splinter	MusicAlbum	1	12	-15.491361434835978	223	3	
+2#Splinter_(The_Offspring_album)	Splinter	MusicAlbum	4	9	-15.566172691533854	223	3	
+6#Sprout_(novel)	Sprout	Book	1	17	-14.830092223521662	9291	3	
+2#Square_One_(album)	Square One	MusicAlbum	1	61	-15.535616531739452	694	3	
+2#Square_One_(band)	Square One	MusicGroup	4	23	-15.550538123619042	694	3	
+1#Square_One_(film)	Square One	MovieFilm	1	1	-15.98272130504708	694	3	
+2#Square_One_(Tom_Petty_song)	Square One	MusicTrack	1	1	-15.607102769494546	694	3	
+1#St._Helens_(film)	St. Helens	MovieFilm	4	41	-15.714800624096426	74	3	
+2#Stahlhammer	Stahlhammer	MusicArtist	1	2	-13.999139189835109	4	1	
+6#Stanley_Park_(novel)	Stanley Park	Book	1	1	-14.880311980500798	153	3	
+2#Starpool	Starpool	MusicGroup	3	31	-14.880311980500798	10	1	
+2#Statements_(album)	Statements	MusicAlbum	1	1	-15.62578188108796	315	3	
+2#Steel_City_(album)	Steel City	MusicAlbum	1	1	-15.630133258342386	186	3	
+2#Story_(Amorphis_album)	Story	MusicAlbum	1	3	-15.505158908197261	1487	3	
+2#Story_(Eric_Clapton_album)	Story	MusicAlbum	1	3	-15.704756653668145	1487	3	
+1#Stuart	Stuart	MovieActor	5	276	-14.667798342254269	264	3	
+1#Sunflower_(1970_film)	Sunflower	MovieFilm	11	70	-15.699218882181578	1666	3	
+1#Sunflower_(2005_film)	Sunflower	MovieFilm	1	18	-15.213755919196208	1666	3	
+2#Sunflower_(Milt_Jackson_album)	Sunflower	MusicAlbum	1	7	-15.62578188108796	1666	3	
+2#Sunflower_(song)	Sunflower	MusicSingle	3	23	-15.613897838228276	1666	3	
+2#Sunflower_(The_Beach_Boys_album)	Sunflower	MusicAlbum	7	139	-15.586036694699954	1666	3	
+2#Svetinja	Svetinja	MusicAlbum	1	1	-15.411914592120075	4	1	
+2#Swans_(band)	Swans	MusicArtist	41	193	-11.934335934172127	573	2	
+2#Swans_(EP)	Swans	MusicAlbum	1	1	-15.61127708165988	573	3	
+1#Swimming_Pool_(1976_film)	Swimming Pool	MovieFilm	1	1	-16.301929685797663	1533	3	
+1#Swimming_Pool_(2001_film)	Swimming Pool	MovieFilm	1	14	-15.440606591509548	1533	3	
+2#Swimming_Pool_(album)	Swimming Pool	MusicAlbum	1	4	-15.149004140516544	1533	3	
+1#Swimming_Pool_(film)	Swimming Pool	MovieFilm	33	338	-15.836793316016587	1533	1	
+1#Sylvia_(1965_film)	Sylvia	MovieFilm	2	17	-15.892831186799521	675	3	
+1#Sylvia_(1985_film)	Sylvia	MovieFilm	1	2	-15.831523007826368	675	3	
+1#Sylvia_(2003_film)	Sylvia	MovieFilm	21	139	-15.709488059849468	675	2	
+6#Sylvia_(novel)	Sylvia	Book	1	1	-14.880311980500798	675	3	
+2#Sylvia_(singer)	Sylvia	MusicArtist	73	302	-12.792326513721454	675	2	
+2#Symbol_(album)	Symbol	MusicAlbum	1	1	-15.39769661321359	773	3	
+2#Syndicate_(song)	Syndicate	MusicSingle	1	19	-15.566477098462272	922	3	
+2#Talism%c3%a3_(album)	Talismã	MusicAlbum	1	1	-15.257425761272122	1	3	
+1#Tape_(film)	Tape	MovieFilm	2	373	-15.993914034244996	395	2	
+1#Taxandria_(film)	Taxandria	MovieFilm	1	1	-15.987350702170618	4	1	
+2#Teddybears	Teddybears	MusicArtist	12	106	-13.532584981968931	42	1	
+2#Tempo_(artist)	Tempo	MusicArtist	1	2	-14.880311980500798	1272	3	
+2#Tempo_(EP)	Tempo	MusicAlbum	1	1	-15.45582322595274	1272	3	
+2#Tempo_(singer)	Tempo	MusicArtist	10	66	-13.669498206180432	1272	3	
+1#Tenderloin_(film)	Tenderloin	MovieFilm	1	1	-15.962323213844444	134	3	
+2#Tennis_(album)	Tennis	MusicAlbum	1	4	-15.54630143744914	10389	3	
+2#Tennis_(band)	Tennis	MusicArtist	11	81	-14.494204393724548	10389	3	
+1#Tepepa	Tepepa	MovieFilm	1	3	-15.79743871286557	3	1	
+1#Terminus_(1987_film)	Terminus	MovieFilm	1	3	-15.97107279164013	102	3	
+6#Terminus_(Doctor_Who)	Terminus	Book	1	5	-14.880311980500798	102	3	
+1#The_Awakening_(1928_film)	The Awakening	MovieFilm	1	1	-15.937657873130426	767	3	
+1#The_Awakening_(1980_film)	The Awakening	MovieFilm	3	24	-15.759728862115487	767	3	
+1#The_Awakening_(2006_film)	The Awakening	MovieFilm	1	2	-16.106091295823177	767	3	
+1#The_Awakening_(2011_film)	The Awakening	MovieFilm	113	346	-16.213142584696456	767	3	
+2#The_Awakening_(Ahmad_Jamal_album)	The Awakening	MusicAlbum	1	2	-15.497023832618803	767	3	
+6#The_Awakening_(Armstrong_novel)	The Awakening	Book	5	24	-14.842054388831212	767	3	
+2#The_Awakening_(band)	The Awakening	MusicArtist	1	22	-13.085394565828738	767	3	
+2#The_Awakening_(Caliban_album)	The Awakening	MusicAlbum	1	3	-15.51202798469916	767	3	
+6#The_Awakening_(Chopin_novel)	The Awakening	Book	1	19	-14.880311980500798	767	2	
+6#The_Awakening_(Doctor_Who)	The Awakening	Book	2	8	-14.880311980500798	767	3	
+2#The_Awakening_(James_Morrison_album)	The Awakening	MusicAlbum	1	883	-15.451230008053578	767	3	
+2#The_Awakening_(Lord_Finesse_album)	The Awakening	MusicAlbum	1	23	-15.500226821042528	767	3	
+2#The_Awakening_(Melissa_Etheridge_album)	The Awakening	MusicAlbum	1	2	-15.475974634457835	767	3	
+2#The_Awakening_(Merciless_album)	The Awakening	MusicAlbum	1	3	-15.31638921207286	767	3	
+2#The_Awakening_(PMD_album)	The Awakening	MusicAlbum	1	3	-15.556475851207308	767	3	
+5#The_Awakening_(Singapore_TV)	The Awakening	TvShow	1	4	-15.774865546370822	767	3	
+2#The_Awakening_(The_Pharaohs_album)	The Awakening	MusicAlbum	1	1	-15.661065863465137	767	3	
+1#The_Big_Chill_(film)	The Big Chill	MovieFilm	106	616	-15.414285543400192	203	1	
+1#The_Cove_(film)	The Cove	MovieFilm	142	1479	-14.880311980500798	988	1	
+2#The_Gorge_(album)	The Gorge	MusicAlbum	3	36	-15.552394261166473	299	3	
+2#The_Hope_(album)	The Hope	MusicAlbum	1	1	-15.472917804429116	28	2	
+6#The_Lion	The Lion	Book	1	615	-14.880311980500798	168	3	
+1#The_Marsh_(film)	The Marsh	MovieFilm	2	60	-15.908396575952278	35	2	
+2#The_Mint_(album)	The Mint	MusicAlbum	1	1	-14.880311980500798	184	3	
+5#The_Mint_(Australia)	The Mint	TvShow	1	3	-15.225319598545463	184	3	
+6#The_Mint_(book)	The Mint	Book	1	135	-14.880311980500798	184	3	
+5#The_Nation_(TV_series)	The Nation	TvShow	1	9	-14.991397285464588	2031	3	
+6#The_Retreat_(novel)	The Retreat	Book	1	1	-14.880311980500798	175	3	
+2#The_Revolution_(band)	The Revolution	MusicGroup	81	473	-13.09087349277674	111	2	
+2#The_Revolution_(Belly_album)	The Revolution	MusicAlbum	1	1	-14.880311980500798	111	3	
+2#The_Revolution_(Inhabited_album)	The Revolution	MusicAlbum	1	3	-15.149004140516544	111	3	
+5#The_Revolution_(TV_series)	The Revolution	TvShow	43	948	-15.366147048406901	111	2	
+2#The_Shambles_(band)	The Shambles	MusicGroup	1	6	-14.880311980500798	4	2	
+2#The_Tower_(Bob_Catley_album)	The Tower	MusicAlbum	1	1	-15.39769661321359	335	3	
+2#The_Tower_(The_Legendary_Pink_Dots_album)	The Tower	MusicAlbum	1	1	-15.494355635869212	335	3	
+6#The_Underground_(Animorphs)	The Underground	Book	1	7	-14.880311980500798	163	3	
+5#The_Underground_(TV_series)	The Underground	TvShow	5	30	-15.170247827102546	163	3	
+2#The_Valley_(Ashton_Nyte_album)	The Valley	MusicAlbum	1	1	-15.457106456470672	71	3	
+2#The_Valley_(band)	The Valley	MusicArtist	1	10	-14.494204393724548	71	3	
+2#The_Valley_(Eisley_album)	The Valley	MusicAlbum	1	2	-15.44589778359031	71	3	
+1#The_Valley_(film)	The Valley	MovieFilm	1	19	-16.658129601986477	71	3	
+6#The_Valley_(novel)	The Valley	Book	1	1	-14.880311980500798	71	3	
+5#The_Works_(2000s_TV_series)	The Works	TvShow	1	1	-14.880311980500798	415	3	
+5#The_Works_(2010s_TV_series)	The Works	TvShow	1	1	-16.094558813174284	415	3	
+2#The_Works_(Bananarama_album)	The Works	MusicAlbum	1	1	-15.623152386535699	415	3	
+2#The_Works_(Echo_&_the_Bunnymen_album)	The Works	MusicAlbum	1	1	-15.537189219033873	415	3	
+2#The_Works_(Faith_No_More_album)	The Works	MusicAlbum	1	3	-15.591137553593661	415	3	
+1#The_Works_(film)	The Works	MovieFilm	1	362	-14.880311980500798	415	3	
+2#The_Works_(Jonatha_Brooke_album)	The Works	MusicAlbum	1	1	-15.396125143807945	415	3	
+2#The_Works_(Nik_Kershaw_album)	The Works	MusicAlbum	1	3	-15.54755774207919	415	3	
+2#The_Works_(Phil_Beer_album)	The Works	MusicAlbum	1	1	-15.608014621688412	415	3	
+2#The_Works_(Queen_album)	The Works	MusicAlbum	11	34	-15.587831083149553	415	3	
+2#The_Works_(Spiers_and_Boden_album)	The Works	MusicAlbum	1	1	-15.427829222402902	415	3	
+2#The_Works_(The_Corrs_album)	The Works	MusicAlbum	1	4	-15.566469212018854	415	3	
+2#The_Works_(The_Wildhearts_album)	The Works	MusicAlbum	1	1	-15.511543599308704	415	3	
+1#Three_Brothers_(1944_film)	Three Brothers	MovieFilm	1	1	-15.757302697030903	108	3	
+1#Three_Brothers_(1981_film)	Three Brothers	MovieFilm	1	4	-15.965286197317628	108	3	
+5#Three_Brothers_(TV_series)	Three Brothers	TvShow	3	136	-16.40194797206439	108	3	
+2#Tintern_Abbey_(band)	Tintern Abbey	MusicGroup	1	4	-15.539578649876093	74	3	
+3#Tobias_(Animorphs)	Tobias	Character	2	150	-14.880311980500798	147	3	
+2#Tonic_(band)	Tonic	MusicArtist	95	653	-13.381414813294036	396	3	
+2#Tonic_(Medeski_Martin_&_Wood_album)	Tonic	MusicAlbum	1	5	-15.517789338933513	396	3	
+2#Tonic_(Tonic_album)	Tonic	MusicAlbum	1	23	-15.477066614297213	396	3	
+2#Toranj_(album)	Toranj	MusicAlbum	1	2	-15.257425761272122	11	3	
+2#Town_and_Country_(album)	Town and Country	MusicAlbum	1	9	-15.622756010965302	2783	3	
+2#Train_(3_Doors_Down_song)	Train	MusicSingle	1	4	-15.514208671944116	9733	3	
+2#Train_(album)	Train	MusicAlbum	8	99	-15.574572223967277	9733	3	
+2#Train_(band)	Train	MusicGroup	1453	13219	-12.082976241074052	9733	1	
+1#Train_(film)	Train	MovieFilm	2	49	-16.05439828950458	9733	3	
+2#Train_(Goldfrapp_song)	Train	MusicSingle	1	4	-15.491663274543289	9733	3	
+6#Treasure_Island	Treasure Island	Book	145	2109	-14.845254836455453	5838	3	
+1#Treasure_Island_(1918_film)	Treasure Island	MovieFilm	1	1	-16.24348872175405	5838	3	
+1#Treasure_Island_(1920_film)	Treasure Island	MovieFilm	1	1	-15.308766024719858	5838	3	
+1#Treasure_Island_(1934_film)	Treasure Island	MovieFilm	5	54	-15.498640931657135	5838	3	
+1#Treasure_Island_(1950_film)	Treasure Island	MovieFilm	20	179	-15.705405877562708	5838	3	
+1#Treasure_Island_(1972_animated_film)	Treasure Island	MovieFilm	1	3	-16.082787591929975	5838	3	
+1#Treasure_Island_(1972_film)	Treasure Island	MovieFilm	1	2	-15.78209377412369	5838	3	
+1#Treasure_Island_(1977_TV_series)	Treasure Island	MovieFilm	1	1	-15.204471202737556	5838	3	
+1#Treasure_Island_(1982_film)	Treasure Island	MovieFilm	1	1	-15.321703754343305	5838	3	
+1#Treasure_Island_(1985_film)	Treasure Island	MovieFilm	1	3	-16.089536830092776	5838	3	
+1#Treasure_Island_(1988_film)	Treasure Island	MovieFilm	1	11	-16.08201978310707	5838	3	
+1#Treasure_Island_(1990_film)	Treasure Island	MovieFilm	5	26	-15.979680001272609	5838	3	
+1#Treasure_Island_(1999_film)	Treasure Island	MovieFilm	1	11	-16.14835392675786	5838	3	
+5#Treasure_Island_(2012_TV_miniseries)	Treasure Island	TvShow	4	66	-15.205241262001286	5838	3	
+2#Treasure_Island_(album)	Treasure Island	MusicAlbum	1	2	-15.550027746414338	5838	3	
+5#Treasure_Island_(show)	Treasure Island	TvShow	1	46	-14.880311980500798	5838	3	
+2#Tres_(album)	Tres	MusicAlbum	1	3	-15.459821152195277	210	3	
+6#Tres_(poetry_collection)	Tres	Book	1	1	-14.880311980500798	210	3	
+2#Tres_(song)	Tres	MusicSingle	1	1	-15.51983199659978	210	3	
+1#Tribu_(film)	Tribu	MovieFilm	1	9	-14.880311980500798	62	3	
+2#Tro_(song)	Tro	MusicSingle	1	2	-15.494598232386076	458	3	
+2#Troll_(artist)	Troll	MusicArtist	1	9	-14.880311980500798	1463	3	
+2#Troll_(band)	Troll	MusicArtist	1	18	-14.411164952473309	1463	3	
+1#Troll_(film)	Troll	MovieFilm	23	183	-15.512724685624452	1463	2	
+2#Troll_(Norwegian_band)	Troll	MusicGroup	1	1	-14.8742763797381	1463	3	
+2#Troll_(Swedish_band)	Troll	MusicArtist	1	3	-14.880311980500798	1463	3	
+1#True_Blue_(1996_film)	True Blue	MovieFilm	1	9	-16.128858255396253	600	3	
+1#True_Blue_(2001_film)	True Blue	MovieFilm	1	12	-15.93065744257105	600	3	
+2#True_Blue_(Al_Cohn_and_Dexter_Gordon_album)	True Blue	MusicAlbum	1	1	-15.03607674918712	600	3	
+2#True_Blue_(John_Williamson_song)	True Blue	MusicSingle	1	2	-14.880311980500798	600	3	
+2#True_Blue_(Luna_Sea_song)	True Blue	MusicSingle	1	1	-15.54142491726287	600	3	
+2#True_Blue_(Madonna_album)	True Blue	MusicAlbum	19	784	-15.576239467524262	600	3	
+2#True_Blue_(Madonna_song)	True Blue	MusicSingle	6	118	-15.576239467524262	600	3	
+2#True_Blue_(Tina_Brooks_album)	True Blue	MusicAlbum	1	1	-15.31638921207286	600	3	
+6#Trumpet_(novel)	Trumpet	Book	1	13	-14.880311980500798	875	3	
+5#Truth_or_Consequences	Truth or Consequences	TvShow	40	256	-15.25931002612647	165	3	
+5#Tyson_(1995_film)	Tyson	TvShow	8	49	-15.91441153074781	1011	3	
+1#Tyson_(2008_film)	Tyson	MovieFilm	2	23	-16.7323034139648	1011	2	
+2#Valina	Valina	MusicArtist	1	18	-14.880311980500798	17	2	
+2#Valkyrie_(album)	Valkyrie	MusicAlbum	5	11	-15.584642517868069	1037	3	
+1#Valkyrie_(film)	Valkyrie	MovieFilm	247	1945	-15.557543258069346	1037	2	
+2#Vallejo_(band)	Vallejo	MusicArtist	11	55	-13.999139189835109	275	2	
+2#Vegas_(duo)	Vegas	MusicArtist	1	1	-14.623346396114513	6502	3	
+1#Vegas_(film)	Vegas	MovieFilm	1	2	-16.086296881984445	6502	3	
+2#Vegas_(song)	Vegas	MusicSingle	1	4	-15.44589778359031	6502	3	
+2#Vegas_(The_Crystal_Method_album)	Vegas	MusicAlbum	5	30	-15.579689054439825	6502	3	
+5#Vegas_(TV_series)	Vegas	TvShow	285	8228	-15.592300143269469	6502	2	
+2#Vegas_(Vegas_album)	Vegas	MusicAlbum	1	2	-15.596792138165991	6502	3	
+2#Vidalia_(song)	Vidalia	MusicSingle	1	5	-15.566853533897048	197	3	
+2#Vignettes_(album)	Vignettes	MusicAlbum	1	1	-15.31638921207286	155	3	
+6#Vinegar_Hill_(novel)	Vinegar Hill	Book	1	3	-14.880311980500798	10	2	
+2#Violaine	Violaine	MusicSingle	1	3	-15.591282908145422	1	3	
+1#Vishwanath_(film)	Vishwanath	MovieFilm	1	3	-16.143885707747856	3	2	
+2#Vixen_(band)	Vixen	MusicArtist	124	358	-13.669498206180432	891	2	
+2#Vixen_(Gloria_Jones_album)	Vixen	MusicAlbum	1	1	-15.622810181702718	891	3	
+2#Vixen_(Vixen_album)	Vixen	MusicAlbum	1	10	-15.379048402619501	891	3	
+1#Volcano_(1997_film)	Volcano	MovieFilm	64	392	-15.714052447241528	3047	2	
+1#Volcano_(2011_film)	Volcano	MovieFilm	1	5	-14.880311980500798	3047	3	
+1#Volcano_(animated_short)	Volcano	MovieFilm	1	8	-15.87326951360885	3047	3	
+2#Volcano_(Edie_Brickell_album)	Volcano	MusicAlbum	1	4	-15.511582100127374	3047	3	
+2#Volcano_(Gatsbys_American_Dream_album)	Volcano	MusicAlbum	1	3	-15.353511685951519	3047	3	
+2#Volcano_(Jimmy_Buffett_album)	Volcano	MusicAlbum	1	25	-15.767210000732192	3047	3	
+2#Volcano_(Satyricon_album)	Volcano	MusicAlbum	1	11	-15.618347015974459	3047	3	
+2#Volcano_(supergroup)	Volcano	MusicGroup	1	6	-14.649679973555157	3047	3	
+2#Volcano_(The_Presidents_of_the_United_States_of_America_song)	Volcano	MusicSingle	1	2	-15.599197884651565	3047	3	
+2#Wake/Lift	Wake	MusicAlbum	1	3	-15.503895453739501	437	3	
+2#Wake_(Dead_Can_Dance_album)	Wake	MusicAlbum	2	6	-15.514261614092161	437	3	
+1#Wake_(film)	Wake	MovieFilm	4	27	-15.379347658292287	437	3	
+2#Wake_(Floater_album)	Wake	MusicAlbum	1	1	-15.451230008053578	437	3	
+6#Wake_(Lisa_McMann_novel)	Wake	Book	2	21	-14.880311980500798	437	3	
+2#Wake_(Lycia_album)	Wake	MusicAlbum	1	1	-15.459702685560003	437	3	
+2#Wake_(Mortal_album)	Wake	MusicAlbum	1	1	-15.379048402619501	437	3	
+6#Wake_(Robert_J._Sawyer_novel)	Wake	Book	1	13	-14.880311980500798	437	3	
+2#Wake_(Tara_MacLean_album)	Wake	MusicAlbum	1	1	-15.463835388801876	437	3	
+2#Wake_(Trio_T%c3%b6yke%c3%a4t_album)	Wake	MusicAlbum	1	1	-15.31638921207286	437	3	
+1#Waru_(2006_film)	Waru	MovieFilm	1	1	-16.39674556840007	6	3	
+1#Watch_(film)	Watch	MovieFilm	1	7	-14.880311980500798	8022	3	
+2#Watch_(Manfred_Mann%27s_Earth_Band_album)	Watch	MusicAlbum	1	6	-15.585834034106425	8022	3	
+6#Watch_(novel)	Watch	Book	1	1	-14.880311980500798	8022	3	
+2#Watch_(Seatrain_album)	Watch	MusicAlbum	1	1	-15.636719384432155	8022	3	
+2#Waters_Edge	Waters Edge	MusicAlbum	1	42	-15.594210657431418	536	3	
+2#Watt_(album)	Watt	MusicAlbum	1	10	-15.480661242537208	478	3	
+6#Watt_(novel)	Watt	Book	3	6	-14.880311980500798	478	2	
+2#Welcome_Home_(%27Til_Tuesday_album)	Welcome Home	MusicAlbum	1	7	-15.46964168994637	606	3	
+1#Welcome_Home_(1989_film)	Welcome Home	MovieFilm	1	77	-15.637415882515036	606	3	
+1#Welcome_Home_(2004_film)	Welcome Home	MovieFilm	1	1	-15.04893469293667	606	3	
+2#Welcome_Home_(Brian_Littrell_album)	Welcome Home	MusicAlbum	2	7	-15.592822385196712	606	3	
+2#Welcome_Home_(Carole_King_album)	Welcome Home	MusicAlbum	2	13	-15.56696992752647	606	3	
+2#Welcome_Home_(Coheed_and_Cambria_song)	Welcome Home	MusicSingle	10	493	-15.520985618397017	606	3	
+2#Welcome_Home_(Dave_Dobbyn_song)	Welcome Home	MusicSingle	1	1	-15.595203621405801	606	3	
+2#Welcome_Home_(Kane_&_Abel_album)	Welcome Home	MusicAlbum	1	1	-15.39769661321359	606	3	
+2#Welcome_Home_(Osibisa_album)	Welcome Home	MusicAlbum	1	7	-15.471698355232974	606	3	
+2#Welcome_Home_(Rehab_album)	Welcome Home	MusicAlbum	1	1	-15.44589778359031	606	3	
+2#Welcome_Home_(Richard_%22Groove%22_Holmes_album)	Welcome Home	MusicAlbum	1	4	-15.44589778359031	606	3	
+2#Welcome_Home_(Ron_Kenoly_album)	Welcome Home	MusicAlbum	2	7	-15.423114493716962	606	3	
+2#Welcome_Home_(You)	Welcome Home	MusicSingle	1	30	-15.592822385196712	606	3	
+1#Western_(film)	Western	MovieFilm	1	40	-15.750427309971135	1597	3	
+2#White_Fox_(album)	White Fox	MusicAlbum	2	4	-15.149004140516544	39	3	
+2#Wild_Planet	Wild Planet	MusicAlbum	2	46	-15.504632692218145	38	2	
+2#Willis_(album)	Willis	MusicAlbum	3	7	-15.39769661321359	503	3	
+2#Willow_(film)	Willow	MusicAlbum	216	2581	-15.48383460435774	1878	3	
+1#Willow_Creek_(film)	Willow Creek	MovieFilm	4	16	-16.73000417362484	833	2	
+1#Winchell_(film)	Winchell	MovieFilm	1	4	-16.730940200017205	25	2	
+2#Windows_(Charlie_Daniels_album)	Windows	MusicAlbum	1	4	-15.51720942293806	47639	3	
+1#Windows_(film)	Windows	MovieFilm	1	17	-16.143647495388638	47639	3	
+2#Windows_(Jon_Lord_album)	Windows	MusicAlbum	1	1	-15.647279264005562	47639	3	
+2#Windows_(musical_group)	Windows	MusicGroup	1	14	-13.31797750194098	47639	3	
+6#Winfield_Hill	Winfield Hill	BookWriter	1	1	-15.149004140516544	1	1	
+2#Woods_(band)	Woods	MusicArtist	11	61	-13.820796857245423	629	1	
+2#Wow/Grape_Jam	Wow	MusicAlbum	4	32	-15.550441687664293	20280	3	
+1#Wow_(film)	Wow	MovieFilm	1	3	-15.824653428894182	20280	3	
+2#Wow_(Inna_song)	Wow	MusicSingle	1	15	-15.459821152195277	20280	3	
+2#Wow_(Kate_Bush_song)	Wow	MusicSingle	1	5	-15.5664682307016	20280	3	
+2#Wow_(Kylie_Minogue_song)	Wow	MusicSingle	1	259	-15.597827645620656	20280	3	
+2#Wow_(Ruslana_song)	Wow	MusicSingle	1	1	-15.149004140516544	20280	3	
+2#Wow_(Superbus_album)	Wow	MusicAlbum	1	1	-15.31638921207286	20280	3	
+2#Wow_(Verdena_album)	Wow	MusicAlbum	1	2	-15.411914592120075	20280	3	
+2#Young_(Hollywood_Undead_song)	Young	MusicSingle	1	9	-15.485051546313066	3843	3	
+2#Young_(Kenny_Chesney_song)	Young	MusicSingle	12	134	-15.524043657417876	3843	3	
+2#Young_(Tulisa_Contostavlos_song)	Young	MusicSingle	7	95	-15.464087681169506	3843	3	
+2#Zagora_(album)	Zagora	MusicAlbum	1	9	-15.537066103017192	39	2	
+2#Zebda	Zebda	MusicArtist	2	23	-13.820796857245423	21	2	
+2#Zoltan	Zoltan	MusicArtist	3	69	-15.4664410152831	98	3	
