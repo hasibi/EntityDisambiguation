@@ -7,14 +7,16 @@ import com.google.common.collect.Multimap;
 
 public class Entities {
 	protected ArrayList<Entity> list;
-	final int id = 0;
-	final int name =1;
-	final int type = 2;
-	
-	int pred;
-	int[] probablities;
-	int score;
-	int newPred;
+	public final int id = 0;
+	public final int name =1;
+	public final int type = 2;
+
+	//public int label;
+	public int pred;
+	public int[] probablities;
+	public int score;
+	public int newPred;
+	public int rank;
 	
 	public Entities(ArrayList<Entity> entities){
 		list = entities;

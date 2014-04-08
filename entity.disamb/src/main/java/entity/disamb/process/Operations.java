@@ -80,7 +80,7 @@ public class Operations {
 	 * @param entities
 	 * @param groupColId
 	 * @param cmpId
-	 * @return
+	 * @return Entities
 	 */
 	public static Entities sortByGroup(Entities entities, int groupColId, int cmpId, boolean ascending){
 		Multimap<String,Entity> groups= Operations.groupBy(entities,groupColId);

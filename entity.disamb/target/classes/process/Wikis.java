@@ -11,11 +11,11 @@ import entity.disamb.ml.Arff;
 
 
 public class Wikis extends Entities{	
-	final int wcpop = 3;
-	final int wpop = 4;
-	final int epop = 5;
-	final int cov = 6;
-	final int label = 7;
+	public final int wcpop = 3;
+	public final int wpop = 4;
+	public final int epop = 5;
+	public final int cov = 6;
+	public final int label = 7;
 	
 	public Wikis(ArrayList<Entity> entities){
 		this.list = entities;

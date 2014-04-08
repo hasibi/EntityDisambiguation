@@ -36,18 +36,6 @@ public class Arff {
 		return data;
 	}
 	
-	public static EntitiesInss read(String fileName, Entities ens){
-		Instances inss = read(fileName);
-		EntitiesInss enInss  = null;
-		try {
-			enInss = new EntitiesInss(ens, inss);
-		} catch (Exception e) {
-			System.out.println("Size of entities and arff instances are not the same!");
-			e.printStackTrace();
-		}
-		return enInss;
-	}
-	
 	/**
 	 * Generates arff format of data 
 	 * @param entities

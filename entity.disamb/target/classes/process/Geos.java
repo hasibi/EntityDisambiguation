@@ -16,9 +16,9 @@ import entity.disamb.ml.Arff;
 
 public class Geos extends Entities {
 	
-	final int epop = 3;
-	final int cov = 4;
-	final int label = 5;
+	public final int epop = 3;
+	public final int cov = 4;
+	public final int label = 5;
 
 	public Geos (ArrayList<Entity> entities){
 		this.list = entities;

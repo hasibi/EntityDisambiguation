@@ -11,61 +11,87 @@ import entity.disamb.process.Operations;
 
 public class Ranking {
 
-	public static void scoreByProbs(EntitiesInss set, int[] gain) throws Exception{
+	private Entities entities;
+	
+	public Ranking(Entities ens){
+		entities = ens;
+	}
+	
+	/**
+	 * Calculate the score of each entity using multiplication of gain and probabilities matrix.
+	 * @param set
+	 * @param gain
+	 * @throws Exception if size of gain[] and the number of labels are not equal.
+	 */
+	public void scoreByProbs(int[] gain) throws Exception{
 		
-		if(! (gain.length == set.getprop(0).length))
-			throw new Exception(); // Check if the probabilities of entity classes are calculated
+		if(! (gain.length == this.entities.probablities.length))
+			throw new Exception("Number of gains is not equal to number of class probabilities."); // Check if the probabilities of entity classes are calculated
+		for (int i=0 ; i < this.entities.probablities.length; i ++)
+			if(this.entities.probablities[i]==0)
+				throw new Exception("Probability " + i + " is not assigned to the entity set.");
 		
-		for(int i = 0; i<set.size(); i++){
-			double[] prob = set.getprop(i);
+		for(int i = 0; i<this.entities.size(); i++){
+			Entity en = this.entities.getEntity(i);
 			double score = 0;
-			for(int j = 0; j<prob.length; j++){
-				score += gain[j] * prob[j];
+			for(int j = 0; j<gain.length; j++){
+				score += gain[j] * Double.parseDouble(en.getFeature(this.entities.probablities[j]));
 			}
-			set.addScore(i, score);
+			en.addFeature(Double.toString(score)); // adding the score to the entity
 		}
+		
+		// *** Assign the id of score to the Entities
+		this.entities.score = this.entities.getFeatureSize() -1;
 	}
 	
-	public static Entities rank(Entities entities){
-//		if(set.getClasses().size() == 0 || set.getScores().size() == 0)
-//			throw new Exception(); 		// check if the prediction label and score of entities are calculated.
-//		Entities entities = set.concatEntityPred();
-//		
-		 // Order of features in entities: ...., label, prediction, prob1, prob2, prob3, score
-		int scoreId = entities.getFeatureSize() - 1;
-		int predictionId = scoreId - 4; 
+	/**
+	 * Give a new label to each entity.
+	 * In this labeling, each group of entities with the same name has zero or only one entity with label one,
+	 * which is the entity with highest score.
+	 * @return
+	 */
+	public void label(){
+		Multimap <String, Entity> groups = Operations.groupBy(this.entities, this.entities.name);
+		Operations.sortByGroup(groups, this.entities.score, false); // descending sort
 		
-		// rank and label entities
-		Multimap <String, Entity> groups = Operations.groupBy(entities, entities.name);
-		Operations.sortByGroup(groups, scoreId, false);
 		for(String name : groups.keySet()){
-			int r = 1;
-			Entities ens = new Entities(new ArrayList<Entity>(groups.get(name)));
-			if(ens.getEntity(0).)
-			for(int i = 1; i< ens.size(); i++){
-				Entity en = ens.getEntity(i);
-				
+			Entities sameNameEns = new Entities(new ArrayList<Entity>(groups.get(name)));
+			int predId = this.entities.pred;
+			boolean hasLabelOne = false;
+			Entity firstEntity = sameNameEns.getEntity(0);
+			if(sameNameEns.getEntity(0).getFeature(predId).matches("1")){ // If the prediction for the first entity is "1"
+				hasLabelOne = true;
+				firstEntity.addFeature("1"); // add label one for the first entity
 			}
-			for(Entity en : groups.get(name)){
-				en.addFeature(Integer.toString(r++)); // rank entities 
+			else 
+				firstEntity.addFeature(firstEntity.getFeature(predId));
+			for(int i = 1; i< sameNameEns.size(); i++){ // the other entities will get label 2 or 3
+				Entity en = sameNameEns.getEntity(i);
+				if(hasLabelOne && en.getFeature(predId).matches("1"))
+					en.addFeature("2");
+				else 
+					en.addFeature(en.getFeature(predId)); 
 			}
 		}
-		return Operations.flatten(groups);
-		
-		//concatenate everything to each other -> generate Entites()
-		// rank
-		// reverse it back to EntitiesInss
-//		for(int i = 0; i<set.size(); i++){
-//			
-//		}
+		this.entities.newPred = this.entities.getFeatureSize()-1;
 	}
 	
-//	private static void rank(Multimap <String, Entity> groups){
-//		Operations.sortByGroup(groups, cmpId)
-//		for(String name : groups.keySet()){
-//			Entities ens = new Entities(new ArrayList<Entity>(groups.get(name)));
-//			
-//			
-//		}
-//	}
+	/**
+	 * Rank entities based on the scores in each group of entities with the same name.
+	 * @return
+	 */
+	public void rank(){
+		Multimap <String, Entity> groups = Operations.groupBy(this.entities, this.entities.name);
+		Operations.sortByGroup(groups, this.entities.score, false); // descending sort
+		
+		for(String name : groups.keySet()){
+			Entities sameNameEns = new Entities(new ArrayList<Entity>(groups.get(name)));
+			int r = 1;
+			for(int i = 0; i< sameNameEns.size(); i++){
+				Entity en = sameNameEns.getEntity(i);
+				en.addFeature(Integer.toString(r++));
+			}
+		}
+		this.entities.rank = this.entities.getFeatureSize() -1;
+	}
 }
