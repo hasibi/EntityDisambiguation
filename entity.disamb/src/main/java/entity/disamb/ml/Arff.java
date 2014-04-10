@@ -37,7 +37,7 @@ public class Arff {
 	}
 	
 	/**
-	 * Generates arff format of data 
+	 * Generate .arff files
 	 * @param entities
 	 * @param cols
 	 * @param header

@@ -1,11 +1,15 @@
 package entity.disamb.process;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+
+import weka.core.FastVector;
+import weka.core.Instances;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 
-public class Entities {
+public class Entities{
 	protected ArrayList<Entity> list;
 	public final int id = 0;
 	public final int name =1;
@@ -46,6 +50,47 @@ public class Entities {
 	
 	public int size(){
 		return list.size();
+	}
+	
+	@Override
+	public Entities clone(){
+		Entities newEns = new Entities();
+		newEns.probablities = this.probablities.clone();
+		newEns.pred = this.pred;
+		newEns.score = this.score;
+		newEns.newPred = this.newPred;
+		newEns.rank = this.rank;
+		newEns.list = new ArrayList<Entity>();
+		for(Entity en : this.list)
+			newEns.list.add(en.clone());
+		return newEns;
+	}
+	
+	/**
+	 * return a set of all entity names
+	 * @return ArrayList<String>
+	 */
+	public ArrayList<String> getNames(){
+		HashSet<String> namesSet = new HashSet<String>();
+		for(Entity en: list){
+			namesSet.add(en.getFeature(name));
+		}
+		return new ArrayList<String>(namesSet);
+	}
+	
+	/**
+	 * appends to entities together
+	 * @param entities
+	 */
+	public void addAll(Entities entities){
+		this.list.addAll(entities.getList());
+		// when adding Geo or Wiki to Entity, these values will be missed, 
+		// because of casting to the parent class.
+		this.pred = entities.pred;
+		this.probablities = entities.probablities;
+		this.score = entities.score;
+		this.newPred = entities.newPred;
+		this.rank = entities.rank;
 	}
 	
 	/**
@@ -102,5 +147,9 @@ public class Entities {
 		
 		this.list = Operations.flatten(groups).list;
 	}
-	
+
+	public void genArff(String string) {
+		System.out.println("########## ALARM ##########");
+		System.out.println("This method in called from Entities class!!!");
+	}
 }

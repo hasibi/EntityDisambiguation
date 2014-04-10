@@ -8,6 +8,21 @@ import weka.core.Instance;
 import weka.core.Instances;
 
 public class Learning {
+	
+	/**
+	 * Trains and test Instances and save all the results in tesEns.
+	 * @param trainInss: Instances
+	 * @param testInss: Instances
+	 * @param testEns : Entities
+	 * @return Entities (testEns)
+	 */
+	public static Entities learn(Instances trainInss, Instances testInss, Entities testEns){
+		System.out.println("Training ...");
+		Classifier model = Learning.train(trainInss);
+		System.out.println("Testing ...");
+		Learning.test(model, testInss, testEns);
+		return testEns;
+	}
 
 	/**
 	 * Train a Logistic model using training set.
@@ -20,8 +35,8 @@ public class Learning {
 			logistic.buildClassifier(trainSet);
 			Evaluation eval = new Evaluation(trainSet);
 			eval.evaluateModel(logistic, trainSet);
-			System.out.println(eval.confusionMatrix().toString());
-			System.out.println(eval.toSummaryString());
+//			System.out.println(eval.confusionMatrix().toString());
+//			System.out.println(eval.toSummaryString());
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 			e.printStackTrace();

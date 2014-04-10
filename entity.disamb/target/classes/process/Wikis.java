@@ -10,23 +10,43 @@ import entity.disamb.IO;
 import entity.disamb.ml.Arff;
 
 
-public class Wikis extends Entities{	
+public class Wikis extends Entities implements Cloneable{	
 	public final int wcpop = 3;
 	public final int wpop = 4;
 	public final int epop = 5;
 	public final int cov = 6;
 	public final int label = 7;
 	
+	public Wikis(){
+		this.list = new ArrayList<Entity>();
+	}
+	public Wikis(Entities entities){
+		this.list = entities.list;
+	}
+	
 	public Wikis(ArrayList<Entity> entities){
 		this.list = entities;
 	}
-	
 	public void cleanfeatures(){
 		for(Entity en: this.list){
 			en.features.remove(7); // remove res 
 			en.features.remove(6); // remove popMovie
 		}
 	}
+	
+//	@Override
+//	public Wikis clone(){
+//		Wikis newWikis = new Wikis();
+//		newWikis.probablities = this.probablities.clone();
+//		newWikis.pred = this.pred;
+//		newWikis.score = this.score;
+//		newWikis.newPred = this.newPred;
+//		newWikis.rank = this.rank;
+//		newWikis.list = new ArrayList<Entity>();
+//		for(Entity en : this.list)
+//			newWikis.list.add(en.clone());
+//		return newWikis;
+//	}
 	
 	public void takeLog(){
 		Calculations.logTransform(this, new int[] {wcpop, wpop, cov});

@@ -20,6 +20,10 @@ public class Geos extends Entities {
 	public final int cov = 4;
 	public final int label = 5;
 
+	public Geos (Entities entities){
+		this.list = entities.list;
+	}
+	
 	public Geos (ArrayList<Entity> entities){
 		this.list = entities;
 	}
@@ -66,30 +70,29 @@ public class Geos extends Entities {
 	public void genArff(String relName){
 		Arff.gen(this, new int[]{epop, cov, label}, new String[]{"epop", "cov", "class"}, relName);
 	}
-	
+//	
 //	/**
-//	 * GEnerate Weka Arrf instances
+//	 * Generate Weka instances
 //	 * @param relName : Relation name
 //	 * @return : Weka Instances
 //	 */
-//	public Instances genArff(String relName){
+//	public Instances getInstances(String relName){
 //		// create attributes
 //		FastVector atts = addAtts(); 
 //		
 //		// add instances
 //		return addInss(relName, atts);
 //	}
-	
 //	
-//	public FastVector addAtts(){
+//	private FastVector addAtts(){
 //		 Attribute epop = new Attribute("epop");
 //		 Attribute cov = new Attribute("cov");
 //		 
 //		 // Declare the class attribute along with its values
 //		 FastVector fvLabel = new FastVector(3);
-//		 fvLabel.addElement("show");
-//		 fvLabel.addElement("ask");
-//		 fvLabel.addElement("donotShow");
+//		 fvLabel.addElement("1");
+//		 fvLabel.addElement("2");
+//		 fvLabel.addElement("3");
 //		 Attribute label = new Attribute("label", fvLabel);
 //		 
 //		 // Declare the feature vector
@@ -100,8 +103,8 @@ public class Geos extends Entities {
 //		 
 //		 return fvAtts;
 //	}
-	
-//	public Instances addInss(String relName, FastVector fvAtts){
+//	
+//	private Instances addInss(String relName, FastVector fvAtts){
 //		 Instances geoInss = new Instances(relName, fvAtts, this.list.size()); 
 //		 // setting label attribute
 //		 geoInss.setClassIndex(2);

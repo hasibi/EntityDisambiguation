@@ -3,7 +3,7 @@ package entity.disamb.process;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class Entity implements Comparator<Entity>, Comparable<Entity> {
+public class Entity implements Comparator<Entity>, Comparable<Entity>, Cloneable {
 
 	public ArrayList<String>  features;
 	int cmpId;
@@ -63,5 +63,15 @@ public class Entity implements Comparator<Entity>, Comparable<Entity> {
 			return false;
 		}
 		return true;
+	}
+	
+	@Override
+	public Entity clone(){
+		Entity en = new Entity();
+		en.cmpId = this.cmpId;
+		en.features = new ArrayList<String>();
+		for(String s: this.features)
+			en.features.add(s);
+		return en;
 	}
 }

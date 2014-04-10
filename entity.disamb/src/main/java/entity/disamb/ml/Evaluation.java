@@ -157,30 +157,35 @@ public class Evaluation {
 		return matrix;
 	}
 	
-	public void printAccuracyMatrix(int[][] confMat){
+	public String printAccuracyMatrix(int[][] confMat){
+		String out = "=== Accuracy Matrix ===\n";
 		double[][] accMat = accuracyMatrix(confMat);		
-		System.out.println("	  Precision		recall		F-Measure");
+		out += "	Precision	recall	F-Measure\n";
 		for(int i = 0 ; i< accMat.length-1; i ++){
 			int lbl = i+1;
-			System.out.print("lbl = " +lbl + "   ");
+			out += "lbl=" +lbl + " |	";
 			for(int j = 0; j<accMat[1].length; j++)
-				System.out.print(accMat[i][j] + "	");
-			System.out.print("\n");
+				out += accMat[i][j] + "	";
+			out += "\n";
 		}
-		System.out.print("Weighted Avg. ");
+		out += "Weighted Avg.	";
 		for(int j = 0; j<accMat[1].length; j++)
-			System.out.print(accMat[accMat.length-1][j] + "	");
-
+			out += accMat[accMat.length-1][j] + "	";
+		out += "\n\n";
+		return out;
 	}
-	public void printConfMat(int[][] confMat){
-		System.out.println("preds -> 1	2	3");
+	public String printConfMat(int[][] confMat){
+		String out = "=== Confusion Matrix ===\n" +
+				"preds ->	1	2	3\n";
 		for(int i = 0; i < confMat[0].length; i ++){
 			int lbl = i+1;
-			System.out.print("lbl=" + lbl + "  | ");
+			out += "lbl=" + lbl + " |	";
 			for (int j = 0 ; j < confMat[1].length; j++)
-				System.out.print(Integer.toString(confMat[i][j]) + "	");
-			System.out.print("\n");
+				out += Integer.toString(confMat[i][j]) + "	";
+			out +="\n";
 
 		}
+		out += "\n";
+		return out;
 	}
 }

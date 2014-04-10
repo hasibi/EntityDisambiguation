@@ -50,7 +50,7 @@ public class Ranking {
 	 * which is the entity with highest score.
 	 * @return
 	 */
-	public void label(){
+	public void label(){	
 		Multimap <String, Entity> groups = Operations.groupBy(this.entities, this.entities.name);
 		Operations.sortByGroup(groups, this.entities.score, false); // descending sort
 		

@@ -101,7 +101,9 @@ public class Operations {
 	
 	public static Entities mergeDomain(Wikis wikis, Geos geos){
 		//Adding wiki entities
-		Entities allEntities = wikis;
+		Entities allEntities = wikis.clone();
+		
+//		allEntities.list = newArrayList<Entity> (wikis.list.clone();
 		//Adding geo entities 
 		for(Entity en : geos.getList()){
 			ArrayList<String> geoFeatures = new ArrayList<String>();
