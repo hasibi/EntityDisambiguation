@@ -2,16 +2,73 @@ package entity.disamb.process;
 
 public class Calculations {
 	
-	private static double[] mins;
-	private static double[] maxs;
+	private Entities entities;
+	
+	// These values will be calculated in calcMinMax()
+	private double[] mins;
+	private double[] maxs;
+	
+	private double[] means;
+	private double[] stds;
 
+	public Calculations(Entities entities){
+		this.entities = entities;
+	}
+	/**
+	 * Calculates mean normalization (Weka standardization) based on this formula:
+	 * newVal = (x - mean) / standardDeviation
+	 * @param cols
+	 */
+	public void meanNorm(int[] cols){
+		calcStds(cols); // calculates mean and stDev of all columns.
+		for (int i=0; i<cols.length; i++){
+			for(Entity en : entities.getList()){
+				double currentVal = Double.parseDouble(en.getFeature(cols[i]));
+				double normVal = (currentVal - means[i])/ stds[i];
+				en.setFeature(cols[i],Double.toString(normVal));
+			}
+		}
+	}
+	
+	/**
+	 * Calculates Standard deviation based on this formula: sqrt(sum((s - mean)^ 2) / n)
+	 * webpage: http://www.mathsisfun.com/data/standard-deviation-formulas.html
+	 * @param cols
+	 */
+	private void calcStds(int[] cols){
+		calcMeans(cols); // calculates means
+		stds = new double[cols.length];
+		for (int i=0; i<cols.length; i++){
+			double sum = 0; 
+			int n = 0;
+			for(Entity en: entities.getList()){
+				double val = Double.parseDouble(en.getFeature(cols[i]));
+				sum += Math.pow(val - means[i], 2);
+				n++;
+			}
+			stds[i] = Math.sqrt(sum / (double) n);
+ 		}
+	}
+	
+	private void calcMeans(int[] cols){
+		means = new double[cols.length];
+		for (int i=0; i<cols.length; i++){
+			double sum = 0; 
+			int n = 0;
+			for(Entity en: entities.getList()){
+				sum += Double.parseDouble(en.getFeature(cols[i]));
+				n++;
+			}
+			means[i] = sum / (double) n;
+ 		}
+	}
+	
 	/**
 	 * performs Min-Max normalization
-	 * @param entities
-	 * @param cols cols contains indexes od all columns that should be normalized.
+	 * @param cols: indexes of all columns that should be calculated.
 	 */
-	public static void minMaxNorm(Entities entities, int[] cols){
-		calcMinMax(entities, cols);
+	public void minMaxNorm(int[] cols){
+		calcMinMax(cols);
 		for (int i=0; i<cols.length; i++){
 			for(Entity en : entities.getList()){
 				double currentVal = Double.parseDouble(en.getFeature(cols[i]));
@@ -26,7 +83,7 @@ public class Calculations {
 	 * @param entities
 	 * @param cols
 	 */
-	private static void calcMinMax(Entities entities, int[] cols){
+	private void calcMinMax(int[] cols){
 		mins = new double[cols.length];
 		maxs = new double[cols.length];
 		for (int i=0; i<cols.length; i++){
@@ -45,7 +102,7 @@ public class Calculations {
  		}
 	}
 	
-	public static void logTransform(Entities entities, int[] cols){
+	public void logTransform(int[] cols){
 		for(int i=0; i<cols.length; i++){
 			for(Entity ins: entities.getList()){
 				double currentVal = Double.parseDouble(ins.getFeature(cols[i]));

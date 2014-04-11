@@ -3,9 +3,6 @@ package entity.disamb.process;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import weka.core.FastVector;
-import weka.core.Instances;
-
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 
@@ -133,23 +130,73 @@ public class Entities{
 		for(Entity en: this.list){
 			if(! en.getFeature(type).matches("POI"))
 				groups.put(en.getFeature(name), en);
-		}
-		 
-		// create a new list for entity names with less than two instances
-		ArrayList<String> oneInsEntities = new ArrayList<String>();
-		for(String name: groups.keySet()){
-			Entities sameEntityNames =  new Entities(new ArrayList<Entity> (groups.get(name))); 
-			if(sameEntityNames.size()==1)
-				oneInsEntities.add(name);
-		}
-		for(String name:oneInsEntities)
-			groups.removeAll(name);
-		
+		}	
 		this.list = Operations.flatten(groups).list;
 	}
 
+	/**
+	 * Remove entity names, where the entities belong to only one domain.
+	 * It is better to perform this operation after all unnecessary entities are removed from dataset.
+	 */
+	public void rmOneDomainEns(){
+		// create a Multimap based on entity names
+		Multimap<String,Entity> groups = Operations.groupBy(this, name);
+		
+		ArrayList<String> oneInsEntities = new ArrayList<String>(); // to save name of one-instance entities
+		for(String name: groups.keySet()){
+			Entities sameEntityNames = new Entities(new ArrayList<Entity>(groups.get(name)));
+			// find names with less than one instance
+			if (sameEntityNames.size() <=1)
+				oneInsEntities.add(name);
+			// find names with that are only form one domain
+			else {
+				boolean hasGeo = false, hasWiki = false;
+				for(int i = 0; i < sameEntityNames.size() && !(hasGeo && hasWiki); i++){
+					Entity en = sameEntityNames.getEntity(i);
+					if(en.getFeature(id).matches("10#.*")) // Id of geo entities
+						hasGeo = true; 
+					else 
+						hasWiki = true;
+				}
+				if(! (hasWiki && hasGeo))
+					oneInsEntities.add(name);
+			}
+		}
+		// remove entities from multimap
+		for(String name: oneInsEntities)
+			groups.removeAll(name);
+		
+		this.list = Operations.flatten(groups).list;
+
+	}
+	
+	/**
+	 * Method is overridden in Wikis and Geos classes.
+	 */
+	public void cleanFeatures(){
+	}
+	
+	/**
+	 * Method is overridden in Wikis and Geos classes.
+	 */
+	public void takeLog(){
+	}
+	
+	/**
+	 * Method is overridden in Wikis and Geos classes.
+	 */
+	public void normalization(){
+	}
+	
+	/**
+	 * Method is overridden in Wikis and Geos classes.
+	 */
+	public void standardization(){
+	}
+	
+	/**
+	 * Method is overridden in Wikis and Geos classes.
+	 */
 	public void genArff(String string) {
-		System.out.println("########## ALARM ##########");
-		System.out.println("This method in called from Entities class!!!");
 	}
 }

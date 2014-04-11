@@ -26,39 +26,38 @@ public class DomainBasedDisamb {
 	}
 	
 	public void disambiguate(){
-		System.out.println("=== Processiong Wiki Entities ===");
+		System.out.println("=== Learning Wiki Entities ===");
 		learn(wikis,"wikis");
 
-		System.out.println("=== Processiong Geo Entities ===");
+		System.out.println("=== Learning Geo Entities ===");
 		learn(geos, "geos");
 		
 		System.out.println("=== Merging Wiki and Geo entities ===");
 		Entities allEns = Operations.mergeDomain(wikis, geos);
 		
 		rank(allEns);
-		System.out.println("Evaluating all entites for same training and test set ...");
 		
-		String evalStr =  " Evaluation metric for same training and test set: \n";
+		System.out.println("=== Evaluating all entities ===");
+		System.out.println("Same training and test set ...");
+		
+		String evalStr =  "Evaluation metrics for same training and test set: \n";
 		evalStr += evaluate(allEns, wikis.label);
 		
-
-		System.out.println("Writing prediction results for all entities ...");
-		allEns = Operations.sortByGroup(allEns, allEns.name, allEns.score, false);
-		IO.writeData(allEns, "allEns.rank");
-		
-		
-		System.out.println("=== Cross Validation ===");
+		System.out.println("10-fold Cross Validation");
 		ArrayList<String> names = allEns.getNames();
 		Collections.shuffle(names);
 		try {
-			evalStr +=  " Evaluation metric for 10-fold cross validation: \n";
+			evalStr +=  "Evaluation metric for 10-fold cross validation: \n";
 			evalStr += crossValidate(names,10);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		System.out.println("Writing evaluation results ...");
 		IO.writeToFile(evalStr, "evaluations");
-
+		
+		System.out.println("=== Writing prediction results for same train and test set===");
+		allEns = Operations.sortByGroup(allEns, allEns.name, allEns.score, false);
+		IO.writeData(allEns, "allEns.rank");
 	}
 	
 	/**
@@ -70,20 +69,20 @@ public class DomainBasedDisamb {
 	private void learn(Entities trainSet, Entities testSet, String setLabel){
 		//train, test, calculate score for test set
 		System.out.println("Generating Arff file for train set...");
-		trainSet.genArff("train." + setLabel);
-		Instances trainInss = Arff.read("train." + setLabel);
+		trainSet.genArff(setLabel + ".train");
+		Instances trainInss = Arff.read(setLabel + ".train");
 		
 		System.out.println("Generating Arff file for test set ...");
-		testSet.genArff("test." + setLabel);
-		Instances testInss = Arff.read("test." + setLabel);
+		testSet.genArff(setLabel + ".test");
+		Instances testInss = Arff.read(setLabel + ".test");
 		
 		Learning.learn(trainInss, testInss, testSet);
 	}
 	
 	private void learn(Entities trainSet, String setLabel){
 		System.out.println("Generating Arff file ...");
-		trainSet.genArff("train." + setLabel);
-		Instances trainInss = Arff.read("train." + setLabel);
+		trainSet.genArff(setLabel + ".train");
+		Instances trainInss = Arff.read(setLabel + ".train");
 		Learning.learn(trainInss, trainInss, trainSet);
 
 	}
@@ -104,13 +103,13 @@ public class DomainBasedDisamb {
 			System.out.println("Learning Wiki entities (Iteration " + i + ") ...");
 			Wikis trainWiki = new Wikis(evalWikis.trainCV(folds, i));
 			Wikis testWiki = new Wikis(evalWikis.testCV(folds, i));
-			learn(trainWiki, testWiki, "wikis.CV"+i);
+			learn(trainWiki, testWiki, "cv/wikis.CV"+i);
 			
 			//Learning Geo entities
 			System.out.println("Learning Geo entities (Iteration " + i + ") ...");
 			Geos trainGeo = new Geos(evalGeos.trainCV(folds, i));
 			Geos testGeo = new Geos(evalGeos.testCV(folds, i));
-			learn(trainGeo, testGeo, "geso.CV" + i);
+			learn(trainGeo, testGeo, "cv/geso.CV" + i);
 			
 			//merging Wiki and Geo entities
 			System.out.println("Merging geo and wiki test set (Iteration " + i + ") ...");

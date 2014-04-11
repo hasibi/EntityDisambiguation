@@ -27,33 +27,30 @@ public class Wikis extends Entities implements Cloneable{
 	public Wikis(ArrayList<Entity> entities){
 		this.list = entities;
 	}
-	public void cleanfeatures(){
+	
+	@Override
+	public void cleanFeatures(){
 		for(Entity en: this.list){
 			en.features.remove(7); // remove res 
 			en.features.remove(6); // remove popMovie
 		}
 	}
 	
-//	@Override
-//	public Wikis clone(){
-//		Wikis newWikis = new Wikis();
-//		newWikis.probablities = this.probablities.clone();
-//		newWikis.pred = this.pred;
-//		newWikis.score = this.score;
-//		newWikis.newPred = this.newPred;
-//		newWikis.rank = this.rank;
-//		newWikis.list = new ArrayList<Entity>();
-//		for(Entity en : this.list)
-//			newWikis.list.add(en.clone());
-//		return newWikis;
-//	}
-	
+	@Override
 	public void takeLog(){
-		Calculations.logTransform(this, new int[] {wcpop, wpop, cov});
+		Calculations calcs = new Calculations(this);
+		calcs.logTransform(new int[] {wcpop, wpop, cov});
+	}
+	@Override
+	public void normalization(){
+		Calculations calcs = new Calculations(this);
+		calcs.minMaxNorm(new int[] {wcpop,wpop,epop,cov});
 	}
 	
-	public void norm(){
-		Calculations.minMaxNorm(this, new int[] {wcpop,wpop,epop,cov});
+	@Override
+	public void standardization(){
+		Calculations calcs = new Calculations(this);
+		calcs.meanNorm(new int[] {wcpop,wpop,epop,cov});
 	}
 	
 	public void rankByDis(String modelFile){
@@ -64,8 +61,9 @@ public class Wikis extends Entities implements Cloneable{
 		Multimap<String,Entity> wikiGroups= Operations.groupBy(this,name);
 		Operations.sortByGroup(wikiGroups, this.list.get(0).features.size()-1, true);
 		this.list = Operations.flatten(wikiGroups).list;
-}
+	}
 	
+	@Override
 	public void genArff(String fileName){
 		Arff.gen(this, new int[]{wcpop,wpop,epop,cov, label}, new String[]{"wcpop", "wpop", "epop", "cov", "label"},fileName);
 	}

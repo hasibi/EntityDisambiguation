@@ -31,6 +31,9 @@ public class PreProcessing {
 		entities.rmRedundants(epop);
 		System.out.println("Removing POI entites ...");
 		entities.rmPois();
+		System.out.println("Removing single domain ambigious entities ...");
+		entities.rmOneDomainEns();
+		System.out.println("Writing all entites ...");
 		IO.writeData(entities,"gt.rmRed" );
 
 		
@@ -38,39 +41,41 @@ public class PreProcessing {
 		Wikis wikis = new Wikis(Operations.splitDomain(entities, "Wiki", src).getList());
 		Geos geos = new Geos(Operations.splitDomain(entities, "Geo", src).getList());
 
-		System.out.println("\n** Processing Wiki entities ...");
-		processWikis(wikis);
-
-		System.out.println("\n** Processing Geo entities ...");
-		processGeos(geos);
-	}
-	
-	private static void processWikis(Wikis wikis){
-		System.out.println("Cleaning unneccessary features of Wiki entities ...");
-		wikis.cleanfeatures();
-//		IO.writeData(wikis, "wikis");
-		System.out.println("Taking log of Wiki entities ...");
-		wikis.takeLog();
-//		IO.writeData(wikis, "wikis.log");
-		System.out.println("Normalizing Wiki entities ...");
-		wikis.norm();
-//		IO.writeData(wikis, "wikis.log.norm");
-		System.out.println("Sorting Wiki entities by name ...");
-		Operations.sort(wikis, name, true);
-		System.out.println("Writing Wiki entities to the file ...");
+		System.out.println("\n=== Processing Wiki entities ===");
+		process(wikis);
+		System.out.println("Writing  Wiki entities to the file ...");
 		IO.writeData(wikis, "wikis.log.norm");
-	}
-	
-	private static void processGeos(Geos geos){
-		System.out.println("Cleaning unneccessary features of Wiki entities ...");
-		geos.cleanFeatures();
-		System.out.println("Taking log of Geo entities ...");
-		geos.takeLog();
-		System.out.println("Normalizing Geo entities ...");
-		geos.norm();
-		System.out.println("Sorting Geo entities by name ...");
-		Operations.sort(geos, name, true);
-		System.out.println("Writing Geo entities to the file ...");
+		
+		System.out.println("\n=== Processing Geo entities ===");
+		process(geos);
+		System.out.println("Writing  Geo entities to the file ...");
 		IO.writeData(geos, "geos.log.norm");
+	}
+//	
+//	private static void processWikis(Wikis wikis){
+//		System.out.println("Cleaning unneccessary features of Wiki entities ...");
+//		wikis.cleanfeatures();
+////		IO.writeData(wikis, "wikis");
+//		System.out.println("Taking log of Wiki entities ...");
+//		wikis.takeLog();
+////		IO.writeData(wikis, "wikis.log");
+//		System.out.println("Normalizing Wiki entities ...");
+//		wikis.normalization();
+////		IO.writeData(wikis, "wikis.log.norm");
+//		System.out.println("Sorting Wiki entities by name ...");
+//		Operations.sort(wikis, name, true);
+//		System.out.println("Writing Wiki entities to the file ...");
+//		IO.writeData(wikis, "wikis.log.norm");
+//	}
+	
+	private static void process(Entities ens){
+		System.out.println("Cleaning unneccessary features ...");
+		ens.cleanFeatures();
+		System.out.println("Taking log ...");
+		ens.takeLog();
+		System.out.println("Normalizing entities ...");
+		ens.standardization();
+		System.out.println("Sorting entities by name ...");
+		Operations.sort(ens, name, true);
 	}
 }

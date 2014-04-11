@@ -36,6 +36,7 @@ public class Geos extends Entities {
 		return this.list.get(0).features.size();
 	}
 	
+	@Override
 	public void cleanFeatures(){
 		for(Entity en: this.list){
 			en.features.remove(7); // remove res
@@ -45,14 +46,23 @@ public class Geos extends Entities {
 		}
 	}
 	
+	@Override
 	public void takeLog(){
-		Calculations.logTransform(this, new int[]{cov});
+		Calculations calcs = new Calculations(this);
+		calcs.logTransform(new int[]{cov});
 	}
 	
-	public void norm(){
-		Calculations.minMaxNorm(this, new int[]{epop,cov});
+	@Override
+	public void normalization(){
+		Calculations calcs = new Calculations(this);
+		calcs.minMaxNorm(new int[]{epop,cov});
 	}
 	
+	@Override
+	public void standardization(){
+		Calculations calcs = new Calculations(this);
+		calcs.meanNorm(new int[]{epop,cov});
+	}
 
 	public void rankByDis(String modelFile){
 		String model = IO.readFile(modelFile);
@@ -67,6 +77,7 @@ public class Geos extends Entities {
 	 * Generate the .arff file in "./output/" path.
 	 * @param relName
 	 */
+	@Override
 	public void genArff(String relName){
 		Arff.gen(this, new int[]{epop, cov, label}, new String[]{"epop", "cov", "class"}, relName);
 	}

@@ -59,8 +59,7 @@ public class Startup {
 				IO.writeData(geos, "geos.log.norm.rank");
 			}
 		}
-		
-		System.out.println("Program execution Done!!");
+		System.out.println("\n============ Program execution Done!! ============");
 		
 //		ArrayList<Integer> list = new ArrayList<Integer>();
 //		list.add(100);
