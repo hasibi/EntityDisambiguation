@@ -6,6 +6,8 @@ import java.util.HashSet;
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 
+import entity.disamb.ml.Arff;
+
 public class Entities{
 	protected ArrayList<Entity> list;
 	public final int id = 0;
@@ -52,7 +54,10 @@ public class Entities{
 	@Override
 	public Entities clone(){
 		Entities newEns = new Entities();
-		newEns.probablities = this.probablities.clone();
+		if(this.probablities != null)
+			newEns.probablities = this.probablities.clone();
+		else 
+			newEns.probablities = null;
 		newEns.pred = this.pred;
 		newEns.score = this.score;
 		newEns.newPred = this.newPred;
@@ -80,7 +85,9 @@ public class Entities{
 	 * @param entities
 	 */
 	public void addAll(Entities entities){
-		this.list.addAll(entities.getList());
+		//this.list.addAll(entities.getList());
+		for(Entity en: entities.getList())
+			this.list.add(en.clone());
 		// when adding Geo or Wiki to Entity, these values will be missed, 
 		// because of casting to the parent class.
 		this.pred = entities.pred;
@@ -198,5 +205,9 @@ public class Entities{
 	 * Method is overridden in Wikis and Geos classes.
 	 */
 	public void genArff(String string) {
+		
+	}
+	public void genArff(String fileName, int[] cols, String[] headers){
+		Arff.gen(this, cols, headers,fileName);
 	}
 }

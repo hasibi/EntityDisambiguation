@@ -11,8 +11,10 @@ public class Disamb {
 		Wikis wikis = new Wikis(IO.readData(wikiFile).getList());		
 		Geos geos = new Geos(IO.readData(geoFile).getList());
 		
-		DomainBasedDisamb dbDisamb = new DomainBasedDisamb(wikis, geos, new int[] {9,4,1});
-		dbDisamb.disambiguate();
+		PCABasedDisamb pcaDisamb = new PCABasedDisamb(wikis, geos, new int[]{9,4,1});
+		pcaDisamb.disambiguate();
+//		DomainBasedDisamb dbDisamb = new DomainBasedDisamb(wikis, geos, new int[] {9,4,1});
+//		dbDisamb.disambiguate();
 		
 	}
 	

@@ -79,7 +79,7 @@ public class Validation {
 		Entities entities = new Entities();
 		for(int i= start; i<= end && i>= 0; i++){
 			ArrayList<Entity> sameNameEns = new ArrayList<Entity>(this.entityGroups.get(names.get(i)));
-			entities.getList().addAll(sameNameEns);
+			entities.addAll(new Entities(sameNameEns));
 		}
 		return entities;
 	}
