@@ -7,11 +7,11 @@ EntityDisambiguation
     - ./output/geos.log.norm.txt
     
 - The results are stored at ./output
-    Prediction results are stored as *.pred.txt
-    Evaluations are stored as *.eval.txt
+    - Prediction results are stored as *.pred.txt
+    - Evaluations are stored as *.eval.txt
 
 
-** NOTE:
+** NOTE **:
 
 For the first time run, you need to first perform Pre-processing.
 
