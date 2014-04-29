@@ -153,6 +153,7 @@ public class Evaluation {
 		// Weighted average for Precision, recall and fMeasures		
 		matrix[3][0] = weightedAvg(confMat, precisions);
 		matrix[3][1] = weightedAvg(confMat, recalls);
+//		matrix[3][2] = (2 * matrix[3][0] * matrix[3][1]) / (matrix[3][0] + matrix[3][1]); 
 		matrix[3][2] = weightedAvg(confMat, fMeasures);
 		return matrix;
 	}

@@ -1,4 +1,4 @@
-package entity.disamb;
+package entity.disamb.process;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -14,9 +14,6 @@ import java.util.Collections;
 import java.util.List;
 
 import com.google.common.collect.Multimap;
-
-import entity.disamb.process.*;
-
 
 
 public class IO {

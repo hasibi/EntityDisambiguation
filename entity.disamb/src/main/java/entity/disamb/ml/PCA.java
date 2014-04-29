@@ -1,9 +1,5 @@
 package entity.disamb.ml;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-
 import weka.core.Instances;
 import weka.attributeSelection.AttributeSelection;
 import weka.attributeSelection.PrincipalComponents;

@@ -57,18 +57,23 @@ public class Ranking {
 		for(String name : groups.keySet()){
 			Entities sameNameEns = new Entities(new ArrayList<Entity>(groups.get(name)));
 			int predId = this.entities.pred;
-			boolean hasLabelOne = false;
+//			boolean hasLabelOne = false;
 			Entity firstEntity = sameNameEns.getEntity(0);
-			if(sameNameEns.getEntity(0).getFeature(predId).matches("1")){ // If the prediction for the first entity is "1"
-				hasLabelOne = true;
-				firstEntity.addFeature("1"); // add label one for the first entity
-			}
-			else 
+//			if(sameNameEns.getEntity(0).getFeature(predId).matches("1")){ // If the prediction for the first entity is "1"
+////				hasLabelOne = true;
+//				firstEntity.addFeature("1"); // add label one for the first entity
+//			}
+//			else 
 				firstEntity.addFeature(firstEntity.getFeature(predId));
 			for(int i = 1; i< sameNameEns.size(); i++){ // the other entities will get label 2 or 3
+				
 				Entity en = sameNameEns.getEntity(i);
-				if(hasLabelOne && en.getFeature(predId).matches("1"))
+				if(en.getFeature(predId).matches("1")){
 					en.addFeature("2");
+////					System.out.println("#####################################################\n" +
+//							name +
+//							"################################");
+				}
 				else 
 					en.addFeature(en.getFeature(predId)); 
 			}

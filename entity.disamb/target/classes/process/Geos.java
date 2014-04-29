@@ -6,12 +6,11 @@ import com.google.common.collect.Multimap;
 
 import disRanking.Logistic;
 
-import weka.core.Attribute;
-import weka.core.FastVector;
-import weka.core.Instances;
-import weka.core.Instance;
+//import weka.core.Attribute;
+//import weka.core.FastVector;
+//import weka.core.Instances;
+//import weka.core.Instance;
 
-import entity.disamb.IO;
 import entity.disamb.ml.Arff;
 
 public class Geos extends Entities {

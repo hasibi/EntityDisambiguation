@@ -1,4 +1,4 @@
-package entity.disamb;
+package disRanking;
 
 import java.util.ArrayList;
 import com.google.common.collect.Multimap;
