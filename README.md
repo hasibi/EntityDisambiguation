@@ -13,7 +13,7 @@ EntityDisambiguation
 
 ** NOTE:
 
-If it is the first time you run this program, you need to first perform Pre-processing.
+For the first time run, you need to first perform Pre-processing.
 
 For pre-processing, pass "-disamb ./path/of/gt" as input argument.
 This will generate the above wiki and geo files.
