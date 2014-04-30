@@ -1,6 +1,10 @@
 package entity.disamb;
 
-import entity.disamb.process.*;
+import entity.disamb.process.Entities;
+import entity.disamb.process.Geos;
+import entity.disamb.process.IO;
+import entity.disamb.process.Operations;
+import entity.disamb.process.Wikis;
 
 public class PreProcessing {
 	static final int id = 0;
@@ -73,7 +77,7 @@ public class PreProcessing {
 		ens.cleanFeatures();
 		System.out.println("Taking log ...");
 		ens.takeLog();
-		System.out.println("Normalizing entities ...");
+		System.out.println("Normalizing features ...");
 		ens.standardization();
 		System.out.println("Sorting entities by name ...");
 		Operations.sort(ens, name, true);

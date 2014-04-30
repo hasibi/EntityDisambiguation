@@ -4,23 +4,19 @@ import entity.disamb.process.Geos;
 import entity.disamb.process.IO;
 import entity.disamb.process.Wikis;
 
-
-
-
-
 public class Startup {
 	
 	public static void main(String[] args) {
 		//===========================operations====================================
-		int id ;
+//		int id ;
 		
-		if ((id = searchInArgs(args,"-prep"))!=-1){
+		if (searchInArgs(args,"-prep")!=-1){
 			String data = IO.checkFile(args[args.length-1]);	
 			PreProcessing.process(data);
 		}
-		else if ((id = searchInArgs(args,"-disamb"))!=-1){
-			String wikiFile = args[id+1];
-			String geoFile = args[id+2];
+		else if (searchInArgs(args,"-disamb")!=-1){
+			String wikiFile =  "./output/wikis.log.norm.txt"; // args[id+1];
+			String geoFile = "./output/geos.log.norm.txt";  // args[id+2];
 			disambiguate(wikiFile, geoFile);
 		}
 
