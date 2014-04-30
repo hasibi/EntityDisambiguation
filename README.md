@@ -11,7 +11,7 @@ EntityDisambiguation
     - Evaluations are stored as *.eval.txt
 
 
-** NOTE **:
+** NOTE **
 
 For the first time run, you need to first perform Pre-processing.
 
