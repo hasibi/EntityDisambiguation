@@ -19,8 +19,8 @@ public class Startup {
 			PreProcessing.process(data);
 		}
 		else if ((id = searchInArgs(args,"-disamb"))!=-1){
-			String wikiFile = args[id+1];
-			String geoFile = args[id+2];
+			String wikiFile =  "./output/wikis.log.norm.txt"; // args[id+1];
+			String geoFile =  "./output/geos.log.norm.txt"; // args[id+2];
 			disambiguate(wikiFile, geoFile);
 		}
 
