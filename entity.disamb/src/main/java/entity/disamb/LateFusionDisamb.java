@@ -48,7 +48,7 @@ public class LateFusionDisamb extends Disamb {
 		
 		System.out.println("=== Writing prediction results for same train and test set===");
 		allEns = Operations.sortByGroup(allEns, allEns.name, allEns.score, false);
-		IO.writeData(allEns, outputFile + "preds");
+		IO.writeData(allEns, outputFile + ".preds");
 	}
 	
 
